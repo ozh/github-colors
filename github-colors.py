@@ -63,37 +63,34 @@ def write_json( text, filename = 'colors.json' ):
     """
     Write a JSON file from a dictionary
     """
-    from collections import OrderedDict
-    f = open( filename, 'w' )
-    f.write( json.dumps( dict, indent=4 ) + '\n' )
-    f.close()
+    with open( filename, 'w' ) as f:
+        f.write( json.dumps( text, indent=4 ) + '\n' )
 
+def write_readme( text, filename = 'README.md' ):
+    """
+    Write a README file from a dictionary
+    """
+    with open( filename, 'w' ) as f:
+        f.write( "# Colors of programming languages on Github \n\n" )
 
-def write_readme( dict, filename = 'README.md' ):
-    f = open( filename, 'w' )
-    f.write( "# Colors of programming languages on Github \n\n" )
+        colorless = {}
 
-    colorless = {}
-
-    for lang in dict:
-        if "color" not in dict[lang]:
-            colorless[lang] =  dict[lang]["url"]
-        else:
-            # dict[lang]["color"][1:] : remove first char ("#") from the color ("#fefefe")
-            f.write( "[![](http://www.placehold.it/150/%s/ffffff&text=%s)](%s)" % ( dict[lang]["color"][1:], lang, dict[lang]["url"] ) )
+        for lang in text:
+            if None == text[lang]["color"]:
+                colorless[lang] =  text[lang]["url"]
+            else:
+                # text[lang]["color"][1:] : remove first char ("#") from the color ("#fefefe")
+                f.write( "[![](http://www.placehold.it/150/%s/ffffff&text=%s)](%s)" % ( text[lang]["color"][1:], lang, text[lang]["url"] ) )
             
-    if colorless != {}:
-        f.write( "\n\nA few other languages don't have their own color on Github :( \n" )
-        for lang in colorless:
-            f.write( "* [%s](%s)\n" % ( lang, colorless[lang] ) )
+        if colorless != {}:
+            f.write( "\n\nA few other languages don't have their own color on Github :( \n" )
+            for lang in colorless:
+                f.write( "* [%s](%s)\n" % ( lang, colorless[lang] ) )
 
-    f.write( "\n\nCurious about all this? Check `ABOUT.md`\n" )
+        f.write( "\n\nCurious about all this? Check `ABOUT.md`\n" )
     
-    f.close
-
 # #
 # now do stuff
 # #
-
 run()
 
