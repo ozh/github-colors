@@ -49,10 +49,11 @@ def run():
     # Construct the wanted list
     langs = OrderedDict()
     for lang in langs_yml.keys():
-        print( "   Parsing the color for '%s' ..." % ( lang ) )
-        langs[lang] = OrderedDict()
-        langs[lang]["color"] = langs_yml[lang]["color"] if "color" in langs_yml[lang] else None
-        langs[lang]["url"] = "https://github.com/trending?l=" + slugify(lang)
+        if ("type" not in langs_yml[lang]) or ("color" in langs_yml[lang]) or (langs_yml[lang]["type"] == "programming"):
+            print( "   Parsing the color for '%s' ..." % ( lang ) )
+            langs[lang] = OrderedDict()
+            langs[lang]["color"] = langs_yml[lang]["color"] if "color" in langs_yml[lang] else None
+            langs[lang]["url"] = "https://github.com/trending?l=" + slugify(lang)
     print( "Writing a new JSON file ..." )
     write_json( langs )
     print( "Updating the README ..." )
