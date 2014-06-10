@@ -1,8 +1,8 @@
 import yaml
 import json
 import requests
-import json
 from collections import OrderedDict
+from slugify import slugify
 from time import sleep
 
 def ordered_load( stream, Loader=yaml.Loader, object_pairs_hook=OrderedDict ):
@@ -52,7 +52,7 @@ def run():
         print( "   Parsing the color for '%s' ..." % ( lang ) )
         langs[lang] = OrderedDict()
         langs[lang]["color"] = langs_yml[lang]["color"] if "color" in langs_yml[lang] else None
-        langs[lang]["url"] = "https://github.com/trending?l=" + ( langs_yml[lang]["search_term"] if "search_term" in langs_yml[lang] else lang.lower() )
+        langs[lang]["url"] = "https://github.com/trending?l=" + ( langs_yml[lang]["search_term"] if "search_term" in langs_yml[lang] else slugify(lang) )
     print( "Writing a new JSON file ..." )
     write_json( langs )
     print( "Updating the README ..." )

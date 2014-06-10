@@ -133,7 +133,7 @@
     }, 
     "C2hs Haskell": {
         "color": null, 
-        "url": "https://github.com/trending?l=c2hs haskell"
+        "url": "https://github.com/trending?l=c2hs-haskell"
     }, 
     "CLIPS": {
         "color": null, 
@@ -181,11 +181,11 @@
     }, 
     "Common Lisp": {
         "color": "#3fb68b", 
-        "url": "https://github.com/trending?l=common lisp"
+        "url": "https://github.com/trending?l=common-lisp"
     }, 
     "Component Pascal": {
         "color": "#b0ce4e", 
-        "url": "https://github.com/trending?l=component pascal"
+        "url": "https://github.com/trending?l=component-pascal"
     }, 
     "Coq": {
         "color": null, 
@@ -241,7 +241,7 @@
     }, 
     "DCPU-16 ASM": {
         "color": null, 
-        "url": "https://github.com/trending?l=dcpu-16 asm"
+        "url": "https://github.com/trending?l=dcpu-16-asm"
     }, 
     "Diff": {
         "color": null, 
@@ -261,7 +261,7 @@
     }, 
     "Ecere Projects": {
         "color": null, 
-        "url": "https://github.com/trending?l=ecere projects"
+        "url": "https://github.com/trending?l=ecere-projects"
     }, 
     "ECL": {
         "color": "#8a1267", 
@@ -285,7 +285,7 @@
     }, 
     "Emacs Lisp": {
         "color": "#c065db", 
-        "url": "https://github.com/trending?l=emacs lisp"
+        "url": "https://github.com/trending?l=emacs-lisp"
     }, 
     "Erlang": {
         "color": "#0faf8d", 
@@ -325,7 +325,7 @@
     }, 
     "Game Maker Language": {
         "color": "#8ad353", 
-        "url": "https://github.com/trending?l=game maker language"
+        "url": "https://github.com/trending?l=game-maker-language"
     }, 
     "GAMS": {
         "color": null, 
@@ -349,11 +349,11 @@
     }, 
     "Gentoo Ebuild": {
         "color": null, 
-        "url": "https://github.com/trending?l=gentoo ebuild"
+        "url": "https://github.com/trending?l=gentoo-ebuild"
     }, 
     "Gentoo Eclass": {
         "color": null, 
-        "url": "https://github.com/trending?l=gentoo eclass"
+        "url": "https://github.com/trending?l=gentoo-eclass"
     }, 
     "Gettext Catalog": {
         "color": null, 
@@ -377,7 +377,7 @@
     }, 
     "Grammatical Framework": {
         "color": "#ff0000", 
-        "url": "https://github.com/trending?l=grammatical framework"
+        "url": "https://github.com/trending?l=grammatical-framework"
     }, 
     "Groff": {
         "color": null, 
@@ -389,7 +389,7 @@
     }, 
     "Groovy Server Pages": {
         "color": null, 
-        "url": "https://github.com/trending?l=groovy server pages"
+        "url": "https://github.com/trending?l=groovy-server-pages"
     }, 
     "HTML": {
         "color": null, 
@@ -397,15 +397,15 @@
     }, 
     "HTML+Django": {
         "color": null, 
-        "url": "https://github.com/trending?l=html+django"
+        "url": "https://github.com/trending?l=html-django"
     }, 
     "HTML+ERB": {
         "color": null, 
-        "url": "https://github.com/trending?l=html+erb"
+        "url": "https://github.com/trending?l=html-erb"
     }, 
     "HTML+PHP": {
         "color": null, 
-        "url": "https://github.com/trending?l=html+php"
+        "url": "https://github.com/trending?l=html-php"
     }, 
     "HTTP": {
         "color": null, 
@@ -445,7 +445,7 @@
     }, 
     "Inno Setup": {
         "color": null, 
-        "url": "https://github.com/trending?l=inno setup"
+        "url": "https://github.com/trending?l=inno-setup"
     }, 
     "Idris": {
         "color": null, 
@@ -453,7 +453,7 @@
     }, 
     "Inform 7": {
         "color": null, 
-        "url": "https://github.com/trending?l=inform 7"
+        "url": "https://github.com/trending?l=inform-7"
     }, 
     "IRC log": {
         "color": null, 
@@ -549,7 +549,7 @@
     }, 
     "Literate Agda": {
         "color": null, 
-        "url": "https://github.com/trending?l=literate agda"
+        "url": "https://github.com/trending?l=literate-agda"
     }, 
     "Literate CoffeeScript": {
         "color": null, 
@@ -685,7 +685,7 @@
     }, 
     "Objective-C++": {
         "color": "#4886FC", 
-        "url": "https://github.com/trending?l=objective-c++"
+        "url": "https://github.com/trending?l=objective-c"
     }, 
     "Objective-J": {
         "color": "#ff0c5a", 
@@ -705,7 +705,7 @@
     }, 
     "OpenEdge ABL": {
         "color": null, 
-        "url": "https://github.com/trending?l=openedge abl"
+        "url": "https://github.com/trending?l=openedge-abl"
     }, 
     "Org": {
         "color": null, 
@@ -737,11 +737,11 @@
     }, 
     "Parrot Internal Representation": {
         "color": null, 
-        "url": "https://github.com/trending?l=parrot internal representation"
+        "url": "https://github.com/trending?l=parrot-internal-representation"
     }, 
     "Parrot Assembly": {
         "color": null, 
-        "url": "https://github.com/trending?l=parrot assembly"
+        "url": "https://github.com/trending?l=parrot-assembly"
     }, 
     "Pascal": {
         "color": "#b0ce4e", 
@@ -785,11 +785,11 @@
     }, 
     "Propeller Spin": {
         "color": "#2b446d", 
-        "url": "https://github.com/trending?l=propeller spin"
+        "url": "https://github.com/trending?l=propeller-spin"
     }, 
     "Protocol Buffer": {
         "color": null, 
-        "url": "https://github.com/trending?l=protocol buffer"
+        "url": "https://github.com/trending?l=protocol-buffer"
     }, 
     "Puppet": {
         "color": "#cc5555", 
@@ -797,7 +797,7 @@
     }, 
     "Pure Data": {
         "color": "#91de79", 
-        "url": "https://github.com/trending?l=pure data"
+        "url": "https://github.com/trending?l=pure-data"
     }, 
     "PureScript": {
         "color": "#bcdc53", 
@@ -809,7 +809,7 @@
     }, 
     "Python traceback": {
         "color": null, 
-        "url": "https://github.com/trending?l=python traceback"
+        "url": "https://github.com/trending?l=python-traceback"
     }, 
     "QML": {
         "color": "#44a51c", 
@@ -841,7 +841,7 @@
     }, 
     "Ragel in Ruby Host": {
         "color": "#ff9c2e", 
-        "url": "https://github.com/trending?l=ragel in ruby host"
+        "url": "https://github.com/trending?l=ragel-in-ruby-host"
     }, 
     "Raw token data": {
         "color": null, 
@@ -953,7 +953,7 @@
     }, 
     "Standard ML": {
         "color": "#dc566d", 
-        "url": "https://github.com/trending?l=standard ml"
+        "url": "https://github.com/trending?l=standard-ml"
     }, 
     "Stata": {
         "color": null, 
@@ -1017,7 +1017,7 @@
     }, 
     "Unified Parallel C": {
         "color": "#755223", 
-        "url": "https://github.com/trending?l=unified parallel c"
+        "url": "https://github.com/trending?l=unified-parallel-c"
     }, 
     "UnrealScript": {
         "color": "#a54c4d", 
@@ -1045,7 +1045,7 @@
     }, 
     "Visual Basic": {
         "color": "#945db7", 
-        "url": "https://github.com/trending?l=visual basic"
+        "url": "https://github.com/trending?l=visual-basic"
     }, 
     "Volt": {
         "color": "#0098db", 
