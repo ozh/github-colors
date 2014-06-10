@@ -1,15 +1,25 @@
-import sys
-import requests
-import re
-import collections
+import yaml
 import json
-from bs4 import BeautifulSoup
+import requests
+import json
+from collections import OrderedDict
 from time import sleep
 
-langs = {}
+def ordered_load( stream, Loader=yaml.Loader, object_pairs_hook=OrderedDict ):
+    """
+    Parse the first YAML document in a stream
+    and produce the corresponding Python Orderered Dictionary.
+    """
+    class OrderedLoader( Loader ):
+        pass
+    OrderedLoader.add_constructor( yaml.resolver.BaseResolver.DEFAULT_MAPPING_TAG,
+        lambda loader, node: object_pairs_hook( loader.construct_pairs( node ) ) )
 
-def get_soup( url ):
-    """Return beautifulsoup object from URL body, or False if page not found
+    return yaml.load( stream, OrderedLoader )
+
+def get_file( url ):
+    """
+    Return the URL body, or False if page not found
 
     Keyword arguments:
     url -- url to parse
@@ -22,133 +32,38 @@ def get_soup( url ):
         sys.exit( "Request fatal error :  %s" % sys.exc_info()[1] )
         
     if r.status_code != 200:
-        # some repo, although listed as "Trending", can be actual 404
         return False
 
-    return BeautifulSoup( r.text )
-
-
-def get_links_name_href( url, pattern ):
-    """Return array of {"name":"some name", "url":"/some/url"} 
-
-    Keyword arguments:
-    url      -- url to parse
-    pattern  -- HTML elements to traverse, eg "div.select-menu-list a.select-menu-item-text.js-select-button-text"
-                1) in /trending: div.select-menu-list a.select-menu-item-text.js-select-button-text
-                2) in /trending?l=php: ol.repo-leaderboard-list li a.repository-name
-    """
-    soup = get_soup( url )
-    if soup == False:
-        print( "No repo found!" );
-        return False
-
-    links = soup.select( pattern )
-    if links == []:
-        print( "No repo found!" );
-        return False
-    
-    if links[0].string:
-        result = {}
-        for link in links:
-            result[ link.string ] = { "url" : link['href'] }
-    else:
-        result = [ link['href'] for link in links ]
-
-    return( result )
-
-
-def get_colors( url ):
-    """Return lang & color
-    
-    From /owner/repo: match all "ol.repository-lang-stats-numbers li" where each <li> is like: 
-    <li>
-        <a href="/owner/repo/search?l=php">
-            <span style="background-color:#f7df1e;" class="color-block language-color"></span>
-            <span class="lang">PHP</span>
-            <span class="percent">16.6%</span>
-        </a>
-    </li>
-    """
-    global langs
-    
-    soup = get_soup( url )
-    stats = soup.select( "ol.repository-lang-stats-numbers li" )
-    found = False
-    for stat in stats:
-        spans = stat.find_all('span')
-        try:
-            # this block will throw an exception if the regexp fails, meaning probably "Other" lang
-            color = re.findall( '\#\w+', spans[0]['style'] )
-            if color == []:
-                color = "#CCCCCC"
-            else:
-                color = color[0]
-            lang  = spans[1].string
-            if lang not in langs:
-                langs[lang] = {}
-            langs[lang]["color"] = color
-            found = True
-            print( "   %s: %s " % ( lang, color ) )
-        except:
-            pass
-    return found
-
+    return r.text
 
 def run():
-    global langs
-
     # Get list of all langs
     print( "Getting list of languages ..." )
-    langs = get_links_name_href( "http://github.com/trending", "div.select-menu-list a.select-menu-item-text.js-select-button-text" )
-    lang_count = len( langs )
+    yml = get_file( "https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml" )
+    langs_yml = ordered_load( yml )
+
+    # List construction done, count keys
+    lang_count = len( langs_yml )
     print( "Found %d languages" % lang_count )
 
-    # For each lang, get a couple trending repo if we don't have its color already
-    i = 0
-    for lang in langs:
-        i += 1
-        print( "[%d/%d] What is the color for '%s' ?" % ( i, lang_count, lang ) )
-        try:
-            # if we already know the color, do nothing
-            i_can_haz_color = langs[lang]["color"]
-            print( "   I already know %s color" % lang )
-        except:
-            # otherwise, fetch it
-            print( "   Searching a couple '%s' repos" % lang )
-            repos = get_links_name_href( langs[lang]['url'], "ol.repo-leaderboard-list li a.repository-name" )
-            if repos != False:
-                for repo in repos:
-                    repo_url = "https://github.com" + repo
-                    print( "   Fetching colors from %s" % repo_url )
-                    if get_colors( repo_url ) == True:
-                        print( "   Nice colors!" )
-                        break;
-                    else:
-                        print( "   No color found here, searching next repo" )
-
-    langs = order_by_keys( langs )
+    # Construct the wanted list
+    langs = OrderedDict()
+    for lang in langs_yml.keys():
+        print( "   Parsing the color for '%s' ..." % ( lang ) )
+        langs[lang] = {}
+        langs[lang]["color"] = langs_yml[lang]["color"] if "color" in langs_yml[lang] else None
+        langs[lang]["url"] = "http://github.com/trending?l=" + ( langs_yml[lang]["search_term"] if "search_term" in langs_yml[lang] else lang.lower() )
     print( "Writing a new JSON file ..." )
     write_json( langs )
     print( "Updating the README ..." )
     write_readme( langs )
     print( "All done!" )
 
-
-def order_by_keys( dict ):
-    """
-    Sort a dictionary by keys, case insensitive ie [ Ada, eC, Fortran ]
-    Default ordering, or using json.dump with sort_keys=True, produces [ Ada, Fortran, eC ]
-    """
-    from collections import OrderedDict
-    return OrderedDict( sorted( dict.items(), key=lambda s: s[0].lower() ) )
-
-
-def write_json( dict, filename = 'colors.json' ):
+def write_json( text, filename = 'colors.json' ):
     """
     Write a JSON file from a dictionary
     """
     from collections import OrderedDict
-    dict = order_by_keys( dict )
     f = open( filename, 'w' )
     f.write( json.dumps( dict, indent=4 ) + '\n' )
     f.close()
