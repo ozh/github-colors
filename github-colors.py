@@ -26,8 +26,6 @@ def get_file( url ):
     """
     try:
         r = requests.get( url )
-        # Delay to avoid getting banned
-        sleep( 2 )
     except:
         sys.exit( "Request fatal error :  %s" % sys.exc_info()[1] )
         
