@@ -50,9 +50,9 @@ def run():
     langs = OrderedDict()
     for lang in langs_yml.keys():
         print( "   Parsing the color for '%s' ..." % ( lang ) )
-        langs[lang] = {}
+        langs[lang] = OrderedDict()
         langs[lang]["color"] = langs_yml[lang]["color"] if "color" in langs_yml[lang] else None
-        langs[lang]["url"] = "http://github.com/trending?l=" + ( langs_yml[lang]["search_term"] if "search_term" in langs_yml[lang] else lang.lower() )
+        langs[lang]["url"] = "https://github.com/trending?l=" + ( langs_yml[lang]["search_term"] if "search_term" in langs_yml[lang] else lang.lower() )
     print( "Writing a new JSON file ..." )
     write_json( langs )
     print( "Updating the README ..." )
@@ -73,7 +73,7 @@ def write_readme( text, filename = 'README.md' ):
     with open( filename, 'w' ) as f:
         f.write( "# Colors of programming languages on Github \n\n" )
 
-        colorless = {}
+        colorless = OrderedDict()
 
         for lang in text:
             if None == text[lang]["color"]:
