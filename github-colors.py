@@ -2,7 +2,6 @@ import yaml
 import json
 import requests
 from collections import OrderedDict
-from slugify import slugify
 from time import sleep
 
 def ordered_load( stream, Loader=yaml.Loader, object_pairs_hook=OrderedDict ):
@@ -16,6 +15,16 @@ def ordered_load( stream, Loader=yaml.Loader, object_pairs_hook=OrderedDict ):
         lambda loader, node: object_pairs_hook( loader.construct_pairs( node ) ) )
 
     return yaml.load( stream, OrderedLoader )
+
+
+def order_by_keys( dict ):
+    """
+    Sort a dictionary by keys, case insensitive ie [ Ada, eC, Fortran ]
+    Default ordering, or using json.dump with sort_keys=True, produces [ Ada, Fortran, eC ]
+    """
+    from collections import OrderedDict
+    return OrderedDict( sorted( dict.items(), key=lambda s: s[0].lower() ) )
+
 
 def get_file( url ):
     """
@@ -34,12 +43,14 @@ def get_file( url ):
 
     return r.text
 
+
 def run():
     # Get list of all langs
     print( "Getting list of languages ..." )
     yml = get_file( "https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml" )
     langs_yml = ordered_load( yml )
-
+    langs_yml = order_by_keys( langs_yml )
+    
     # List construction done, count keys
     lang_count = len( langs_yml )
     print( "Found %d languages" % lang_count )
@@ -51,12 +62,13 @@ def run():
             print( "   Parsing the color for '%s' ..." % ( lang ) )
             langs[lang] = OrderedDict()
             langs[lang]["color"] = langs_yml[lang]["color"] if "color" in langs_yml[lang] else None
-            langs[lang]["url"] = "https://github.com/trending?l=" + slugify(lang)
+            langs[lang]["url"] = "https://github.com/trending?l=" + ( langs_yml[lang]["search_term"] if "search_term" in langs_yml[lang] else lang )
     print( "Writing a new JSON file ..." )
     write_json( langs )
     print( "Updating the README ..." )
     write_readme( langs )
     print( "All done!" )
+
 
 def write_json( text, filename = 'colors.json' ):
     """
@@ -64,6 +76,7 @@ def write_json( text, filename = 'colors.json' ):
     """
     with open( filename, 'w' ) as f:
         f.write( json.dumps( text, indent=4 ) + '\n' )
+
 
 def write_readme( text, filename = 'README.md' ):
     """
@@ -87,7 +100,8 @@ def write_readme( text, filename = 'README.md' ):
                 f.write( "* [%s](%s)\n" % ( lang, colorless[lang] ) )
 
         f.write( "\n\nCurious about all this? Check `ABOUT.md`\n" )
-    
+
+
 # #
 # now do stuff
 # #
