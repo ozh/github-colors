@@ -1,6 +1,12 @@
 import yaml
 import json
 import requests
+import io
+import urllib
+try:
+    from urllib import quote
+except ImportError:
+    from urllib.parse import quote
 from collections import OrderedDict
 from time import sleep
 
@@ -37,7 +43,7 @@ def get_file( url ):
         r = requests.get( url )
     except:
         sys.exit( "Request fatal error :  %s" % sys.exc_info()[1] )
-        
+
     if r.status_code != 200:
         return False
 
@@ -50,7 +56,7 @@ def run():
     yml = get_file( "https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml" )
     langs_yml = ordered_load( yml )
     langs_yml = order_by_keys( langs_yml )
-    
+
     # List construction done, count keys
     lang_count = len( langs_yml )
     print( "Found %d languages" % lang_count )
@@ -92,8 +98,8 @@ def write_readme( text, filename = 'README.md' ):
                 colorless[lang] =  text[lang]["url"]
             else:
                 # text[lang]["color"][1:] : remove first char ("#") from the color ("#fefefe")
-                f.write( "[![](http://www.placehold.it/150/%s/ffffff&text=%s)](%s)" % ( text[lang]["color"][1:], lang, text[lang]["url"] ) )
-            
+                f.write( "[![](http://www.placehold.it/150/%s/ffffff&text=%s)](%s)" % ( text[lang]["color"][1:], quote(lang), text[lang]["url"] ) )
+
         if colorless != {}:
             f.write( "\n\nA few other languages don't have their own color on Github :( \n" )
             for lang in colorless:
