@@ -860,7 +860,7 @@
         "url": "https://github.com/trending?l=PLpgSQL"
     }, 
     "PLSQL": {
-        "color": null, 
+        "color": "#dad8d8", 
         "url": "https://github.com/trending?l=PLSQL"
     }, 
     "PogoScript": {
