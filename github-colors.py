@@ -93,7 +93,7 @@ def write_readme(text, filename='README.md'):
     Write a README file from a dictionary
     """
     with open(filename, 'w') as f:
-        f.write("# Colors of programming languages on Github \n\n")
+        f.write("# Colors of programming languages on GitHub\n\n")
 
         colorless = OrderedDict()
 
@@ -105,7 +105,7 @@ def write_readme(text, filename='README.md'):
                 f.write("[![](http://www.placehold.it/150/%s/ffffff&text=%s)](%s)" % (text[lang]["color"][1:], quote(lang), text[lang]["url"]))
 
         if colorless != {}:
-            f.write("\n\nA few other languages don't have their own color on Github :(\n")
+            f.write("\n\nA few other languages don't have their own color on GitHub :(\n")
             for lang in colorless:
                 f.write("* [%s](%s)\n" % (lang, colorless[lang]))
 
