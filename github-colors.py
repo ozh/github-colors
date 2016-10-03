@@ -1,14 +1,12 @@
-import yaml
 import json
 import requests
-import io
-import urllib
+import sys
+import yaml
 try:
     from urllib import quote
 except ImportError:
     from urllib.parse import quote
 from collections import OrderedDict
-from time import sleep
 
 def ordered_load( stream, Loader=yaml.Loader, object_pairs_hook=OrderedDict ):
     """
