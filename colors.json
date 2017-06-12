@@ -267,6 +267,10 @@
         "color": "#3A4E3A",
         "url": "https://github.com/trending?l=Cuda"
     },
+    "CWeb": {
+        "color": null,
+        "url": "https://github.com/trending?l=CWeb"
+    },
     "Cycript": {
         "color": null,
         "url": "https://github.com/trending?l=Cycript"
@@ -951,6 +955,10 @@
         "color": "#dbb284",
         "url": "https://github.com/trending?l=PAWN"
     },
+    "Pep8": {
+        "color": "#C76F5B",
+        "url": "https://github.com/trending?l=Pep8"
+    },
     "Perl": {
         "color": "#0298c3",
         "url": "https://github.com/trending?l=Perl"
@@ -1330,6 +1338,10 @@
     "Web Ontology Language": {
         "color": "#9cc9dd",
         "url": "https://github.com/trending?l=Web-Ontology-Language"
+    },
+    "WebAssembly": {
+        "color": "#04133b",
+        "url": "https://github.com/trending?l=WebAssembly"
     },
     "WebIDL": {
         "color": null,
