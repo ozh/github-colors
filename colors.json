@@ -149,7 +149,7 @@
     },
     "C#": {
         "color": "#178600",
-        "url": "https://github.com/trending?l=C#"
+        "url": "https://github.com/trending?l=Csharp"
     },
     "C++": {
         "color": "#f34b7d",
@@ -357,7 +357,7 @@
     },
     "F#": {
         "color": "#b845fc",
-        "url": "https://github.com/trending?l=F#"
+        "url": "https://github.com/trending?l=Fsharp"
     },
     "Factor": {
         "color": "#636746",
@@ -368,7 +368,7 @@
         "url": "https://github.com/trending?l=Fancy"
     },
     "Fantom": {
-        "color": "#dbded5",
+        "color": "#14253c",
         "url": "https://github.com/trending?l=Fantom"
     },
     "Filebench WML": {
@@ -496,7 +496,7 @@
         "url": "https://github.com/trending?l=Harbour"
     },
     "Haskell": {
-        "color": "#29b544",
+        "color": "#5e5086",
         "url": "https://github.com/trending?l=Haskell"
     },
     "Haxe": {
@@ -963,9 +963,9 @@
         "color": "#0298c3",
         "url": "https://github.com/trending?l=Perl"
     },
-    "Perl6": {
+    "Perl 6": {
         "color": "#0000fb",
-        "url": "https://github.com/trending?l=Perl6"
+        "url": "https://github.com/trending?l=Perl-6"
     },
     "PHP": {
         "color": "#4F5D95",
@@ -1110,6 +1110,10 @@
     "REXX": {
         "color": null,
         "url": "https://github.com/trending?l=REXX"
+    },
+    "Ring": {
+        "color": "#0e60e3",
+        "url": "https://github.com/trending?l=Ring"
     },
     "RobotFramework": {
         "color": null,
