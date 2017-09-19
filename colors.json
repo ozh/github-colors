@@ -99,6 +99,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Awk"
     },
+    "Ballerina": {
+        "color": "#FF5000",
+        "url": "https://github.com/trending?l=Ballerina"
+    },
     "Batchfile": {
         "color": "#C1F12E",
         "url": "https://github.com/trending?l=Batchfile"
@@ -168,7 +172,7 @@
         "url": "https://github.com/trending?l=CartoCSS"
     },
     "Ceylon": {
-        "color": null,
+        "color": "#dfa535",
         "url": "https://github.com/trending?l=Ceylon"
     },
     "Chapel": {
@@ -287,6 +291,10 @@
         "color": "#00B4AB",
         "url": "https://github.com/trending?l=Dart"
     },
+    "DataWeave": {
+        "color": "#003a52",
+        "url": "https://github.com/trending?l=DataWeave"
+    },
     "DIGITAL Command Language": {
         "color": null,
         "url": "https://github.com/trending?l=DIGITAL-Command-Language"
@@ -310,10 +318,6 @@
     "E": {
         "color": "#ccce35",
         "url": "https://github.com/trending?l=E"
-    },
-    "Eagle": {
-        "color": "#814C05",
-        "url": "https://github.com/trending?l=Eagle"
     },
     "eC": {
         "color": "#913960",
@@ -611,10 +615,6 @@
         "color": "#DA5B0B",
         "url": "https://github.com/trending?l=Jupyter-Notebook"
     },
-    "KiCad": {
-        "color": null,
-        "url": "https://github.com/trending?l=KiCad"
-    },
     "Kotlin": {
         "color": "#F18E33",
         "url": "https://github.com/trending?l=Kotlin"
@@ -728,7 +728,7 @@
         "url": "https://github.com/trending?l=Mathematica"
     },
     "Matlab": {
-        "color": "#bb92ac",
+        "color": "#e16737",
         "url": "https://github.com/trending?l=Matlab"
     },
     "Max": {
@@ -811,6 +811,10 @@
         "color": "#28431f",
         "url": "https://github.com/trending?l=NCL"
     },
+    "Nearley": {
+        "color": "#990000",
+        "url": "https://github.com/trending?l=Nearley"
+    },
     "Nemerle": {
         "color": "#3d3c6e",
         "url": "https://github.com/trending?l=Nemerle"
@@ -834,10 +838,6 @@
     "NewLisp": {
         "color": "#87AED7",
         "url": "https://github.com/trending?l=NewLisp"
-    },
-    "Nginx": {
-        "color": "#9469E9",
-        "url": "https://github.com/trending?l=Nginx"
     },
     "Nim": {
         "color": "#37775b",
@@ -1030,10 +1030,6 @@
     "Puppet": {
         "color": "#302B6D",
         "url": "https://github.com/trending?l=Puppet"
-    },
-    "Pure Data": {
-        "color": "#91de79",
-        "url": "https://github.com/trending?l=Pure-Data"
     },
     "PureBasic": {
         "color": "#5a6986",
@@ -1339,10 +1335,6 @@
         "color": "#2c3e50",
         "url": "https://github.com/trending?l=Vue"
     },
-    "Web Ontology Language": {
-        "color": "#9cc9dd",
-        "url": "https://github.com/trending?l=Web-Ontology-Language"
-    },
     "WebAssembly": {
         "color": "#04133b",
         "url": "https://github.com/trending?l=WebAssembly"
@@ -1370,10 +1362,6 @@
     "Xojo": {
         "color": null,
         "url": "https://github.com/trending?l=Xojo"
-    },
-    "XPages": {
-        "color": null,
-        "url": "https://github.com/trending?l=XPages"
     },
     "XProc": {
         "color": null,
