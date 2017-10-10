@@ -103,7 +103,7 @@ def write_readme(text, filename='README.md'):
                 colorless[lang] = text[lang]["url"]
             else:
                 # text[lang]["color"][1:] : remove first char ("#") from the color ("#fefefe")
-                f.write("[![](http://via.placeholder.com/150x150/%s/ffffff&text=%s)](%s)" % (text[lang]["color"][1:], quote(lang), text[lang]["url"]))
+                f.write("[![](http://via.placeholder.com/148x148/%s/ffffff&text=%s)](%s)" % (text[lang]["color"][1:], quote(lang), text[lang]["url"]))
 
         if colorless != {}:
             f.write("\n\nA few other languages don't have their own color on GitHub :(\n")
