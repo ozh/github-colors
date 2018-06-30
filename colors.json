@@ -35,6 +35,10 @@
         "color": "#E6EFBB",
         "url": "https://github.com/trending?l=AMPL"
     },
+    "AngelScript": {
+        "color": "#C7D7DC",
+        "url": "https://github.com/trending?l=AngelScript"
+    },
     "ANTLR": {
         "color": "#9DC3FF",
         "url": "https://github.com/trending?l=ANTLR"
@@ -62,10 +66,6 @@
     "Arc": {
         "color": "#aa2afe",
         "url": "https://github.com/trending?l=Arc"
-    },
-    "Arduino": {
-        "color": "#bd79d1",
-        "url": "https://github.com/trending?l=Arduino"
     },
     "ASP": {
         "color": "#6a40fd",
@@ -235,6 +235,10 @@
         "color": "#3fb68b",
         "url": "https://github.com/trending?l=Common-Lisp"
     },
+    "Common Workflow Language": {
+        "color": "#B5314C",
+        "url": "https://github.com/trending?l=Common-Workflow-Language"
+    },
     "Component Pascal": {
         "color": "#B0CE4E",
         "url": "https://github.com/trending?l=Component-Pascal"
@@ -302,6 +306,10 @@
     "DM": {
         "color": "#447265",
         "url": "https://github.com/trending?l=DM"
+    },
+    "Dockerfile": {
+        "color": "#0db7ed",
+        "url": "https://github.com/trending?l=Dockerfile"
     },
     "Dogescript": {
         "color": "#cca760",
@@ -511,6 +519,10 @@
         "color": null,
         "url": "https://github.com/trending?l=HCL"
     },
+    "HiveQL": {
+        "color": "#dce200",
+        "url": "https://github.com/trending?l=HiveQL"
+    },
     "HLSL": {
         "color": null,
         "url": "https://github.com/trending?l=HLSL"
@@ -532,7 +544,7 @@
         "url": "https://github.com/trending?l=IDL"
     },
     "Idris": {
-        "color": null,
+        "color": "#b30000",
         "url": "https://github.com/trending?l=Idris"
     },
     "IGOR Pro": {
@@ -640,7 +652,7 @@
         "url": "https://github.com/trending?l=Lex"
     },
     "LFE": {
-        "color": null,
+        "color": "#4C3023",
         "url": "https://github.com/trending?l=LFE"
     },
     "LilyPond": {
@@ -838,6 +850,10 @@
     "NewLisp": {
         "color": "#87AED7",
         "url": "https://github.com/trending?l=NewLisp"
+    },
+    "Nextflow": {
+        "color": "#3ac486",
+        "url": "https://github.com/trending?l=Nextflow"
     },
     "Nim": {
         "color": "#37775b",
@@ -1047,6 +1063,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Python-console"
     },
+    "q": {
+        "color": "#0040cd",
+        "url": "https://github.com/trending?l=q"
+    },
     "QMake": {
         "color": null,
         "url": "https://github.com/trending?l=QMake"
@@ -1123,6 +1143,10 @@
         "color": "#cc0088",
         "url": "https://github.com/trending?l=Rouge"
     },
+    "RPC": {
+        "color": null,
+        "url": "https://github.com/trending?l=RPC"
+    },
     "Ruby": {
         "color": "#701516",
         "url": "https://github.com/trending?l=Ruby"
@@ -1158,6 +1182,10 @@
     "Scilab": {
         "color": null,
         "url": "https://github.com/trending?l=Scilab"
+    },
+    "sed": {
+        "color": "#64b970",
+        "url": "https://github.com/trending?l=sed"
     },
     "Self": {
         "color": "#0579aa",
@@ -1198,6 +1226,10 @@
     "SMT": {
         "color": null,
         "url": "https://github.com/trending?l=SMT"
+    },
+    "Solidity": {
+        "color": "#AA6746",
+        "url": "https://github.com/trending?l=Solidity"
     },
     "SourcePawn": {
         "color": "#5c7611",
@@ -1308,7 +1340,7 @@
         "url": "https://github.com/trending?l=Vala"
     },
     "VCL": {
-        "color": null,
+        "color": "#0298c3",
         "url": "https://github.com/trending?l=VCL"
     },
     "Verilog": {
@@ -1334,6 +1366,10 @@
     "Vue": {
         "color": "#2c3e50",
         "url": "https://github.com/trending?l=Vue"
+    },
+    "wdl": {
+        "color": "#42f1f4",
+        "url": "https://github.com/trending?l=wdl"
     },
     "WebAssembly": {
         "color": "#04133b",
