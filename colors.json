@@ -1351,6 +1351,10 @@
         "color": "#adb2cb",
         "url": "https://github.com/trending?l=VHDL"
     },
+    "Vala": {
+        "color": "#fbe5cd",
+        "url": "https://github.com/trending?l=vala"
+    },
     "Vim script": {
         "color": "#199f4b",
         "url": "https://github.com/trending?l=Vim-script"
