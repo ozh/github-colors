@@ -50,6 +50,9 @@ def get_file(url):
 
     return r.text
 
+def is_dark(color):
+    l = 0.2126 * int(color[0:2], 16) + 0.7152 * int(color[2:4], 16) + 0.0722 * int(color[4:6], 16)
+    return False if l / 255 > 0.65 else True
 
 def run():
     # Get list of all langs
@@ -103,7 +106,11 @@ def write_readme(text, filename='README.md'):
                 colorless[lang] = text[lang]["url"]
             else:
                 # text[lang]["color"][1:] : remove first char ("#") from the color ("#fefefe")
-                f.write("[![](http://via.placeholder.com/148x148/%s/ffffff&text=%s)](%s)" % (text[lang]["color"][1:], quote(lang), text[lang]["url"]))
+                f.write("[![](http://via.placeholder.com/148x148/%s/%s&text=%s)](%s)" %
+                    (text[lang]["color"][1:],
+                    'ffffff' if is_dark(text[lang]["color"][1:]) else '111111',
+                    quote(lang), text[lang]["url"])
+                )
 
         if colorless != {}:
             f.write("\n\nA few other languages don't have their own color on GitHub :(\n")
