@@ -97,7 +97,7 @@ def write_readme(text, filename='README.md'):
     Write a README file from a dictionary
     """
     with open(filename, 'w') as f:
-        f.write("# Colors of programming languages on GitHub\n\n")
+        f.write("# GitHub language colors\n\n")
 
         colorless = OrderedDict()
 
