@@ -299,6 +299,10 @@
         "color": "#ba595e",
         "url": "https://github.com/trending?l=D"
     },
+    "Dafny": {
+        "color": "#FFEC25",
+        "url": "https://github.com/trending?l=Dafny"
+    },
     "Dart": {
         "color": "#00B4AB",
         "url": "https://github.com/trending?l=Dart"
@@ -427,6 +431,10 @@
         "color": "#4d41b1",
         "url": "https://github.com/trending?l=Fortran"
     },
+    "Fortran Free Form": {
+        "color": null,
+        "url": "https://github.com/trending?l=Fortran-Free-Form"
+    },
     "FreeMarker": {
         "color": "#0050b2",
         "url": "https://github.com/trending?l=FreeMarker"
@@ -434,6 +442,10 @@
     "Frege": {
         "color": "#00cafe",
         "url": "https://github.com/trending?l=Frege"
+    },
+    "Futhark": {
+        "color": "#5f021f",
+        "url": "https://github.com/trending?l=Futhark"
     },
     "G-code": {
         "color": "#D08CF2",
@@ -763,6 +775,10 @@
         "color": null,
         "url": "https://github.com/trending?l=M4Sugar"
     },
+    "Macaulay2": {
+        "color": "#d8ffff",
+        "url": "https://github.com/trending?l=Macaulay2"
+    },
     "Makefile": {
         "color": "#427819",
         "url": "https://github.com/trending?l=Makefile"
@@ -920,7 +936,7 @@
         "url": "https://github.com/trending?l=Nextflow"
     },
     "Nim": {
-        "color": "#37775b",
+        "color": "#ffc200",
         "url": "https://github.com/trending?l=Nim"
     },
     "Nit": {
@@ -1294,6 +1310,10 @@
     "Shen": {
         "color": "#120F14",
         "url": "https://github.com/trending?l=Shen"
+    },
+    "Sieve": {
+        "color": null,
+        "url": "https://github.com/trending?l=Sieve"
     },
     "Slash": {
         "color": "#007eff",
