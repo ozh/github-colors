@@ -163,6 +163,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Brightscript"
     },
+    "Browserslist": {
+        "color": "#ffd539",
+        "url": "https://github.com/trending?l=Browserslist"
+    },
     "C": {
         "color": "#555555",
         "url": "https://github.com/trending?l=C"
