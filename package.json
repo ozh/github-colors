@@ -1,0 +1,20 @@
+{
+    "name": "github-colors",
+    "version": "1.0.0",
+    "description": "GitHub language colors",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ozh/github-colors.git"
+    },
+    "keywords": [
+        "python",
+        "language",
+        "colors"
+    ],
+    "author": "ozh",
+    "license": "WTFPL",
+    "bugs": {
+        "url": "https://github.com/ozh/github-colors/issues"
+    },
+    "homepage": "https://github.com/ozh/github-colors#readme"
+}
