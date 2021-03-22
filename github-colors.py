@@ -123,4 +123,5 @@ def write_readme(text, filename='README.md'):
 # #
 # now do stuff
 # #
-run()
+if __name__ == '__main__':
+    run()
