@@ -31,6 +31,10 @@
         "color": "#B9D9FF",
         "url": "https://github.com/trending?l=AGS-Script"
     },
+    "AIDL": {
+        "color": "#34EB6B",
+        "url": "https://github.com/trending?l=AIDL"
+    },
     "AL": {
         "color": "#3AA2B5",
         "url": "https://github.com/trending?l=AL"
@@ -123,6 +127,10 @@
         "color": "#FF5000",
         "url": "https://github.com/trending?l=Ballerina"
     },
+    "BASIC": {
+        "color": "#ff0000",
+        "url": "https://github.com/trending?l=BASIC"
+    },
     "Batchfile": {
         "color": "#C1F12E",
         "url": "https://github.com/trending?l=Batchfile"
@@ -134,6 +142,10 @@
     "Befunge": {
         "color": null,
         "url": "https://github.com/trending?l=Befunge"
+    },
+    "Bicep": {
+        "color": "#519aba",
+        "url": "https://github.com/trending?l=Bicep"
     },
     "Bison": {
         "color": "#6A463F",
@@ -323,6 +335,10 @@
         "color": "#3A4E3A",
         "url": "https://github.com/trending?l=Cuda"
     },
+    "CUE": {
+        "color": "#5886E1",
+        "url": "https://github.com/trending?l=CUE"
+    },
     "CWeb": {
         "color": null,
         "url": "https://github.com/trending?l=CWeb"
@@ -478,6 +494,10 @@
     "Fortran Free Form": {
         "color": null,
         "url": "https://github.com/trending?l=Fortran-Free-Form"
+    },
+    "FreeBasic": {
+        "color": "#867db1",
+        "url": "https://github.com/trending?l=FreeBasic"
     },
     "FreeMarker": {
         "color": "#0050b2",
@@ -710,6 +730,10 @@
     "JFlex": {
         "color": "#DBCA00",
         "url": "https://github.com/trending?l=JFlex"
+    },
+    "Jinja": {
+        "color": "#a52a22",
+        "url": "https://github.com/trending?l=Jinja"
     },
     "Jison": {
         "color": null,
@@ -1459,6 +1483,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Sieve"
     },
+    "Singularity": {
+        "color": "#64E6AD",
+        "url": "https://github.com/trending?l=Singularity"
+    },
     "Slash": {
         "color": "#007eff",
         "url": "https://github.com/trending?l=Slash"
@@ -1531,6 +1559,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Stata"
     },
+    "StringTemplate": {
+        "color": "#3fb34f",
+        "url": "https://github.com/trending?l=StringTemplate"
+    },
     "Stylus": {
         "color": "#ff6347",
         "url": "https://github.com/trending?l=Stylus"
@@ -1574,6 +1606,10 @@
     "TeX": {
         "color": "#3D6117",
         "url": "https://github.com/trending?l=TeX"
+    },
+    "TextMate Properties": {
+        "color": "#df66e4",
+        "url": "https://github.com/trending?l=TextMate-Properties"
     },
     "Thrift": {
         "color": null,
@@ -1672,7 +1708,7 @@
         "url": "https://github.com/trending?l=Volt"
     },
     "Vue": {
-        "color": "#2c3e50",
+        "color": "#41b883",
         "url": "https://github.com/trending?l=Vue"
     },
     "wdl": {
@@ -1710,6 +1746,10 @@
     "Xojo": {
         "color": null,
         "url": "https://github.com/trending?l=Xojo"
+    },
+    "Xonsh": {
+        "color": "#285EEF",
+        "url": "https://github.com/trending?l=Xonsh"
     },
     "XProc": {
         "color": null,
