@@ -7,6 +7,7 @@ try:
 except ImportError:
     from urllib.parse import quote
 from collections import OrderedDict
+from datetime import datetime
 
 
 def ordered_load(stream, Loader=yaml.Loader, object_pairs_hook=OrderedDict):
@@ -118,6 +119,8 @@ def write_readme(text, filename='README.md'):
                 f.write("* [%s](%s)\n" % (lang, colorless[lang]))
 
         f.write("\n\nCurious about all this? Check `ABOUT.md`\n")
+
+        f.write(f"\n<!-- updated: {datetime.now()} -->\n")
 
 
 # #

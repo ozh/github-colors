@@ -1,0 +1,27 @@
+name: Update Colours
+on:
+  schedule:
+    - cron: '11 19 * * MON'
+  push:
+    paths-ignore:
+      - 'colors.json'
+      - 'README.md'
+jobs:
+  update_colours:
+    name: Update Colours
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Update colours
+        run: 'python github-colors.py'
+      - name: Commit
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "githubactions@pxeger.com"
+          git commit -am "update colours"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
