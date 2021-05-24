@@ -812,7 +812,7 @@
         "url": "https://github.com/trending?l=LFE"
     },
     "LilyPond": {
-        "color": null,
+        "color": "#9ccc7c",
         "url": "https://github.com/trending?l=LilyPond"
     },
     "Limbo": {
@@ -1674,6 +1674,10 @@
     "Vala": {
         "color": "#fbe5cd",
         "url": "https://github.com/trending?l=Vala"
+    },
+    "Valve Data Format": {
+        "color": "#f26025",
+        "url": "https://github.com/trending?l=Valve-Data-Format"
     },
     "VBA": {
         "color": "#867db1",
