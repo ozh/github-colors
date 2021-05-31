@@ -120,7 +120,7 @@
         "url": "https://github.com/trending?l=AutoIt"
     },
     "Awk": {
-        "color": null,
+        "color": "#c30e9b",
         "url": "https://github.com/trending?l=Awk"
     },
     "Ballerina": {
@@ -479,6 +479,10 @@
         "color": null,
         "url": "https://github.com/trending?l=fish"
     },
+    "Fluent": {
+        "color": "#ffcc33",
+        "url": "https://github.com/trending?l=Fluent"
+    },
     "FLUX": {
         "color": "#88ccff",
         "url": "https://github.com/trending?l=FLUX"
@@ -772,7 +776,7 @@
         "url": "https://github.com/trending?l=Kaitai-Struct"
     },
     "Kotlin": {
-        "color": "#F18E33",
+        "color": "#A97BFF",
         "url": "https://github.com/trending?l=Kotlin"
     },
     "KRL": {
@@ -1199,6 +1203,10 @@
         "color": "#dbb284",
         "url": "https://github.com/trending?l=Pawn"
     },
+    "PEG.js": {
+        "color": "#234d6b",
+        "url": "https://github.com/trending?l=PEG.js"
+    },
     "Pep8": {
         "color": "#C76F5B",
         "url": "https://github.com/trending?l=Pep8"
@@ -1366,6 +1374,10 @@
     "Redcode": {
         "color": null,
         "url": "https://github.com/trending?l=Redcode"
+    },
+    "Regular Expression": {
+        "color": "#009a00",
+        "url": "https://github.com/trending?l=Regular-Expression"
     },
     "Ren'Py": {
         "color": "#ff7f7f",
