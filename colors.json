@@ -467,6 +467,10 @@
         "color": "#c37240",
         "url": "https://github.com/trending?l=Faust"
     },
+    "Fennel": {
+        "color": "#fff3d7",
+        "url": "https://github.com/trending?l=Fennel"
+    },
     "Filebench WML": {
         "color": null,
         "url": "https://github.com/trending?l=Filebench-WML"
@@ -754,6 +758,10 @@
     "jq": {
         "color": "#c7254e",
         "url": "https://github.com/trending?l=jq"
+    },
+    "JSON": {
+        "color": "#292929",
+        "url": "https://github.com/trending?l=JSON"
     },
     "JSONiq": {
         "color": "#40d47e",
