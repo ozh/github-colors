@@ -99,6 +99,10 @@
         "color": "#6E4C13",
         "url": "https://github.com/trending?l=Assembly"
     },
+    "Astro": {
+        "color": "#ff5a03",
+        "url": "https://github.com/trending?l=Astro"
+    },
     "Asymptote": {
         "color": "#ff0000",
         "url": "https://github.com/trending?l=Asymptote"
@@ -782,6 +786,10 @@
     "Kaitai Struct": {
         "color": "#773b37",
         "url": "https://github.com/trending?l=Kaitai-Struct"
+    },
+    "KakouneScript": {
+        "color": "#6f8042",
+        "url": "https://github.com/trending?l=KakouneScript"
     },
     "Kotlin": {
         "color": "#A97BFF",
@@ -1600,7 +1608,7 @@
         "url": "https://github.com/trending?l=SVG"
     },
     "Swift": {
-        "color": "#ffac45",
+        "color": "#F05138",
         "url": "https://github.com/trending?l=Swift"
     },
     "SWIG": {
