@@ -851,6 +851,10 @@
         "color": "#9EEDFF",
         "url": "https://github.com/trending?l=J"
     },
+    "JAR Manifest": {
+        "color": "#b07219",
+        "url": "https://github.com/trending?l=JAR-Manifest"
+    },
     "Jasmin": {
         "color": "#d03600",
         "url": "https://github.com/trending?l=Jasmin"
@@ -1959,9 +1963,9 @@
         "color": "#199f4b",
         "url": "https://github.com/trending?l=Vim-Help-File"
     },
-    "Vim script": {
+    "Vim Script": {
         "color": "#199f4b",
-        "url": "https://github.com/trending?l=Vim-script"
+        "url": "https://github.com/trending?l=Vim-Script"
     },
     "Vim Snippet": {
         "color": "#199f4b",
