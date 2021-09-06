@@ -679,6 +679,14 @@
         "color": "#00ADD8",
         "url": "https://github.com/trending?l=Go"
     },
+    "Go Checksums": {
+        "color": "#00ADD8",
+        "url": "https://github.com/trending?l=Go-Checksums"
+    },
+    "Go Module": {
+        "color": "#00ADD8",
+        "url": "https://github.com/trending?l=Go-Module"
+    },
     "Golo": {
         "color": "#88562A",
         "url": "https://github.com/trending?l=Golo"
