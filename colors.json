@@ -455,6 +455,10 @@
         "color": "#ccce35",
         "url": "https://github.com/trending?l=E"
     },
+    "Earthly": {
+        "color": "#2af0ff",
+        "url": "https://github.com/trending?l=Earthly"
+    },
     "Easybuild": {
         "color": "#069406",
         "url": "https://github.com/trending?l=Easybuild"
@@ -1179,6 +1183,10 @@
         "color": "#ff4585",
         "url": "https://github.com/trending?l=MoonScript"
     },
+    "Motoko": {
+        "color": "#fbb03b",
+        "url": "https://github.com/trending?l=Motoko"
+    },
     "Motorola 68K Assembly": {
         "color": "#005daa",
         "url": "https://github.com/trending?l=Motorola-68K-Assembly"
@@ -1482,6 +1490,10 @@
     "Prolog": {
         "color": "#74283c",
         "url": "https://github.com/trending?l=Prolog"
+    },
+    "Promela": {
+        "color": "#de0000",
+        "url": "https://github.com/trending?l=Promela"
     },
     "Propeller Spin": {
         "color": "#7fa2a7",
