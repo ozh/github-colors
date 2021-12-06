@@ -1723,6 +1723,10 @@
         "color": "#89e051",
         "url": "https://github.com/trending?l=Shell"
     },
+    "ShellCheck Config": {
+        "color": "#cecfcb",
+        "url": "https://github.com/trending?l=ShellCheck-Config"
+    },
     "ShellSession": {
         "color": null,
         "url": "https://github.com/trending?l=ShellSession"
