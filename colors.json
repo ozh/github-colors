@@ -275,6 +275,10 @@
         "color": "#db901e",
         "url": "https://github.com/trending?l=Clarion"
     },
+    "Clarity": {
+        "color": "#5546ff",
+        "url": "https://github.com/trending?l=Clarity"
+    },
     "Classic ASP": {
         "color": "#6a40fd",
         "url": "https://github.com/trending?l=Classic-ASP"
@@ -386,6 +390,10 @@
     "CUE": {
         "color": "#5886E1",
         "url": "https://github.com/trending?l=CUE"
+    },
+    "Curry": {
+        "color": "#531242",
+        "url": "https://github.com/trending?l=Curry"
     },
     "CWeb": {
         "color": "#00007a",
@@ -667,6 +675,10 @@
         "color": "#F44D27",
         "url": "https://github.com/trending?l=Git-Config"
     },
+    "Gleam": {
+        "color": "#ffaff3",
+        "url": "https://github.com/trending?l=Gleam"
+    },
     "GLSL": {
         "color": "#5686a5",
         "url": "https://github.com/trending?l=GLSL"
@@ -727,6 +739,10 @@
         "color": "#4298b8",
         "url": "https://github.com/trending?l=Groovy-Server-Pages"
     },
+    "GSC": {
+        "color": "#FF6800",
+        "url": "https://github.com/trending?l=GSC"
+    },
     "Hack": {
         "color": "#878787",
         "url": "https://github.com/trending?l=Hack"
@@ -770,6 +786,10 @@
     "HolyC": {
         "color": "#ffefaf",
         "url": "https://github.com/trending?l=HolyC"
+    },
+    "hoon": {
+        "color": "#00b171",
+        "url": "https://github.com/trending?l=hoon"
     },
     "HTML": {
         "color": "#e34c26",
@@ -862,6 +882,10 @@
     "J": {
         "color": "#9EEDFF",
         "url": "https://github.com/trending?l=J"
+    },
+    "Janet": {
+        "color": "#0886a5",
+        "url": "https://github.com/trending?l=Janet"
     },
     "JAR Manifest": {
         "color": "#b07219",
@@ -1142,6 +1166,10 @@
     "MiniD": {
         "color": null,
         "url": "https://github.com/trending?l=MiniD"
+    },
+    "Mint": {
+        "color": "#02b046",
+        "url": "https://github.com/trending?l=Mint"
     },
     "Mirah": {
         "color": "#c7a938",
@@ -1487,6 +1515,10 @@
         "color": "#0096D8",
         "url": "https://github.com/trending?l=Processing"
     },
+    "Procfile": {
+        "color": "#3B2F63",
+        "url": "https://github.com/trending?l=Procfile"
+    },
     "Prolog": {
         "color": "#74283c",
         "url": "https://github.com/trending?l=Prolog"
@@ -1658,6 +1690,10 @@
     "RPC": {
         "color": null,
         "url": "https://github.com/trending?l=RPC"
+    },
+    "RPGLE": {
+        "color": "#2BDE21",
+        "url": "https://github.com/trending?l=RPGLE"
     },
     "Ruby": {
         "color": "#701516",
@@ -2011,6 +2047,10 @@
         "color": "#41b883",
         "url": "https://github.com/trending?l=Vue"
     },
+    "Vyper": {
+        "color": "#2980b9",
+        "url": "https://github.com/trending?l=Vyper"
+    },
     "wdl": {
         "color": "#42f1f4",
         "url": "https://github.com/trending?l=wdl"
@@ -2038,6 +2078,10 @@
     "wisp": {
         "color": "#7582D1",
         "url": "https://github.com/trending?l=wisp"
+    },
+    "Witcher Script": {
+        "color": "#ff0000",
+        "url": "https://github.com/trending?l=Witcher-Script"
     },
     "Wollok": {
         "color": "#a23738",
