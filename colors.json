@@ -3,6 +3,10 @@
         "color": "#814CCC",
         "url": "https://github.com/trending?l=1C-Enterprise"
     },
+    "2-Dimensional Array": {
+        "color": "#38761D",
+        "url": "https://github.com/trending?l=2-Dimensional-Array"
+    },
     "4D": {
         "color": "#004289",
         "url": "https://github.com/trending?l=4D"
@@ -427,6 +431,14 @@
         "color": "#003a52",
         "url": "https://github.com/trending?l=DataWeave"
     },
+    "Debian Package Control File": {
+        "color": "#D70751",
+        "url": "https://github.com/trending?l=Debian-Package-Control-File"
+    },
+    "DenizenScript": {
+        "color": "#FBEE96",
+        "url": "https://github.com/trending?l=DenizenScript"
+    },
     "Dhall": {
         "color": "#dfafff",
         "url": "https://github.com/trending?l=Dhall"
@@ -522,6 +534,10 @@
     "Erlang": {
         "color": "#B83998",
         "url": "https://github.com/trending?l=Erlang"
+    },
+    "Euphoria": {
+        "color": "#FF790B",
+        "url": "https://github.com/trending?l=Euphoria"
     },
     "F#": {
         "color": "#b845fc",
@@ -1003,6 +1019,10 @@
         "color": "#28430A",
         "url": "https://github.com/trending?l=KRL"
     },
+    "kvlang": {
+        "color": "#1da6e0",
+        "url": "https://github.com/trending?l=kvlang"
+    },
     "LabVIEW": {
         "color": "#fede06",
         "url": "https://github.com/trending?l=LabVIEW"
@@ -1166,6 +1186,10 @@
     "MiniD": {
         "color": null,
         "url": "https://github.com/trending?l=MiniD"
+    },
+    "MiniYAML": {
+        "color": "#ff1111",
+        "url": "https://github.com/trending?l=MiniYAML"
     },
     "Mint": {
         "color": "#02b046",
