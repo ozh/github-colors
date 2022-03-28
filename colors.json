@@ -175,6 +175,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Befunge"
     },
+    "Berry": {
+        "color": "#15A13C",
+        "url": "https://github.com/trending?l=Berry"
+    },
     "BibTeX": {
         "color": "#778899",
         "url": "https://github.com/trending?l=BibTeX"
@@ -246,6 +250,10 @@
     "Cabal Config": {
         "color": "#483465",
         "url": "https://github.com/trending?l=Cabal-Config"
+    },
+    "Cadence": {
+        "color": "#00ef8b",
+        "url": "https://github.com/trending?l=Cadence"
     },
     "Cairo": {
         "color": "#ff4a48",
@@ -662,6 +670,14 @@
     "Gemfile.lock": {
         "color": "#701516",
         "url": "https://github.com/trending?l=Gemfile.lock"
+    },
+    "Genero": {
+        "color": "#63408e",
+        "url": "https://github.com/trending?l=Genero"
+    },
+    "Genero Forms": {
+        "color": "#d8df39",
+        "url": "https://github.com/trending?l=Genero-Forms"
     },
     "Genie": {
         "color": "#fb855d",
@@ -1230,6 +1246,10 @@
     "Monkey": {
         "color": null,
         "url": "https://github.com/trending?l=Monkey"
+    },
+    "Monkey C": {
+        "color": "#8D6747",
+        "url": "https://github.com/trending?l=Monkey-C"
     },
     "Moocode": {
         "color": null,
@@ -2024,7 +2044,7 @@
         "url": "https://github.com/trending?l=V"
     },
     "Vala": {
-        "color": "#fbe5cd",
+        "color": "#a56de2",
         "url": "https://github.com/trending?l=Vala"
     },
     "Valve Data Format": {
