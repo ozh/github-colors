@@ -259,6 +259,10 @@
         "color": "#ff4a48",
         "url": "https://github.com/trending?l=Cairo"
     },
+    "CameLIGO": {
+        "color": "#3be133",
+        "url": "https://github.com/trending?l=CameLIGO"
+    },
     "Cap'n Proto": {
         "color": "#c42727",
         "url": "https://github.com/trending?l=Cap'n-Proto"
@@ -1075,6 +1079,10 @@
         "color": "#4C3023",
         "url": "https://github.com/trending?l=LFE"
     },
+    "LigoLANG": {
+        "color": "#0e74ff",
+        "url": "https://github.com/trending?l=LigoLANG"
+    },
     "LilyPond": {
         "color": "#9ccc7c",
         "url": "https://github.com/trending?l=LilyPond"
@@ -1667,6 +1675,10 @@
         "color": "#ff5847",
         "url": "https://github.com/trending?l=Reason"
     },
+    "ReasonLIGO": {
+        "color": "#ff5847",
+        "url": "https://github.com/trending?l=ReasonLIGO"
+    },
     "Rebol": {
         "color": "#358a5b",
         "url": "https://github.com/trending?l=Rebol"
@@ -1946,6 +1958,10 @@
     "SystemVerilog": {
         "color": "#DAE1C2",
         "url": "https://github.com/trending?l=SystemVerilog"
+    },
+    "Talon": {
+        "color": "#333333",
+        "url": "https://github.com/trending?l=Talon"
     },
     "Tcl": {
         "color": "#e4cc98",
