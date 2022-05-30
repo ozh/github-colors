@@ -263,6 +263,10 @@
         "color": "#3be133",
         "url": "https://github.com/trending?l=CameLIGO"
     },
+    "CAP CDS": {
+        "color": "#0092d1",
+        "url": "https://github.com/trending?l=CAP-CDS"
+    },
     "Cap'n Proto": {
         "color": "#c42727",
         "url": "https://github.com/trending?l=Cap'n-Proto"
@@ -959,6 +963,10 @@
         "color": "#15c213",
         "url": "https://github.com/trending?l=Jest-Snapshot"
     },
+    "JetBrains MPS": {
+        "color": "#21D789",
+        "url": "https://github.com/trending?l=JetBrains-MPS"
+    },
     "JFlex": {
         "color": "#DBCA00",
         "url": "https://github.com/trending?l=JFlex"
@@ -1543,6 +1551,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Pony"
     },
+    "Portugol": {
+        "color": "#f8bd00",
+        "url": "https://github.com/trending?l=Portugol"
+    },
     "PostCSS": {
         "color": "#dc3a0c",
         "url": "https://github.com/trending?l=PostCSS"
@@ -1919,6 +1931,10 @@
         "color": "#1a5f91",
         "url": "https://github.com/trending?l=Stata"
     },
+    "STL": {
+        "color": "#373b5e",
+        "url": "https://github.com/trending?l=STL"
+    },
     "StringTemplate": {
         "color": "#3fb34f",
         "url": "https://github.com/trending?l=StringTemplate"
@@ -2130,6 +2146,10 @@
     "WebIDL": {
         "color": null,
         "url": "https://github.com/trending?l=WebIDL"
+    },
+    "Whiley": {
+        "color": "#d5c397",
+        "url": "https://github.com/trending?l=Whiley"
     },
     "Wikitext": {
         "color": "#fc5757",
