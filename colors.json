@@ -71,6 +71,10 @@
         "color": "#A9157E",
         "url": "https://github.com/trending?l=Ant-Build-System"
     },
+    "Antlers": {
+        "color": "#ff269e",
+        "url": "https://github.com/trending?l=Antlers"
+    },
     "ANTLR": {
         "color": "#9DC3FF",
         "url": "https://github.com/trending?l=ANTLR"
@@ -187,6 +191,10 @@
         "color": "#519aba",
         "url": "https://github.com/trending?l=Bicep"
     },
+    "Bikeshed": {
+        "color": "#5562ac",
+        "url": "https://github.com/trending?l=Bikeshed"
+    },
     "Bison": {
         "color": "#6A463F",
         "url": "https://github.com/trending?l=Bison"
@@ -222,6 +230,10 @@
     "Brainfuck": {
         "color": "#2F2530",
         "url": "https://github.com/trending?l=Brainfuck"
+    },
+    "BrighterScript": {
+        "color": "#66AABB",
+        "url": "https://github.com/trending?l=BrighterScript"
     },
     "Brightscript": {
         "color": "#662D91",
@@ -718,6 +730,10 @@
     "Git Config": {
         "color": "#F44D27",
         "url": "https://github.com/trending?l=Git-Config"
+    },
+    "Git Revision List": {
+        "color": "#F44D27",
+        "url": "https://github.com/trending?l=Git-Revision-List"
     },
     "Gleam": {
         "color": "#ffaff3",
@@ -2028,7 +2044,7 @@
         "url": "https://github.com/trending?l=TSV"
     },
     "TSX": {
-        "color": "#2b7489",
+        "color": "#3178c6",
         "url": "https://github.com/trending?l=TSX"
     },
     "Turing": {
@@ -2044,7 +2060,7 @@
         "url": "https://github.com/trending?l=TXL"
     },
     "TypeScript": {
-        "color": "#2b7489",
+        "color": "#3178c6",
         "url": "https://github.com/trending?l=TypeScript"
     },
     "Unified Parallel C": {
