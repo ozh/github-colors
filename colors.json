@@ -1299,6 +1299,10 @@
         "color": "#005daa",
         "url": "https://github.com/trending?l=Motorola-68K-Assembly"
     },
+    "Move": {
+        "color": "#4a137a",
+        "url": "https://github.com/trending?l=Move"
+    },
     "MQL4": {
         "color": "#62A8D6",
         "url": "https://github.com/trending?l=MQL4"
@@ -1330,6 +1334,10 @@
     "nanorc": {
         "color": "#2d004d",
         "url": "https://github.com/trending?l=nanorc"
+    },
+    "Nasal": {
+        "color": "#1d2c4e",
+        "url": "https://github.com/trending?l=Nasal"
     },
     "NASL": {
         "color": null,
@@ -1775,6 +1783,10 @@
         "color": "#cc0088",
         "url": "https://github.com/trending?l=Rouge"
     },
+    "RouterOS Script": {
+        "color": "#DE3941",
+        "url": "https://github.com/trending?l=RouterOS-Script"
+    },
     "RPC": {
         "color": null,
         "url": "https://github.com/trending?l=RPC"
@@ -2111,6 +2123,10 @@
         "color": "#148AA8",
         "url": "https://github.com/trending?l=VCL"
     },
+    "Velocity Template Language": {
+        "color": "#507cff",
+        "url": "https://github.com/trending?l=Velocity-Template-Language"
+    },
     "Verilog": {
         "color": "#b2b7f8",
         "url": "https://github.com/trending?l=Verilog"
@@ -2190,6 +2206,10 @@
     "World of Warcraft Addon Data": {
         "color": "#f7e43f",
         "url": "https://github.com/trending?l=World-of-Warcraft-Addon-Data"
+    },
+    "Wren": {
+        "color": "#383838",
+        "url": "https://github.com/trending?l=Wren"
     },
     "X10": {
         "color": "#4B6BEF",
