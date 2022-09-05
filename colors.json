@@ -27,6 +27,10 @@
         "color": "#02f88c",
         "url": "https://github.com/trending?l=Ada"
     },
+    "Adblock Filter List": {
+        "color": "#800000",
+        "url": "https://github.com/trending?l=Adblock-Filter-List"
+    },
     "Adobe Font Metrics": {
         "color": "#fa0f00",
         "url": "https://github.com/trending?l=Adobe-Font-Metrics"
@@ -551,6 +555,10 @@
         "color": "#60B5CC",
         "url": "https://github.com/trending?l=Elm"
     },
+    "Elvish": {
+        "color": "#55BB55",
+        "url": "https://github.com/trending?l=Elvish"
+    },
     "Emacs Lisp": {
         "color": "#c065db",
         "url": "https://github.com/trending?l=Emacs-Lisp"
@@ -690,6 +698,10 @@
     "Gemfile.lock": {
         "color": "#701516",
         "url": "https://github.com/trending?l=Gemfile.lock"
+    },
+    "Gemini": {
+        "color": "#ff6900",
+        "url": "https://github.com/trending?l=Gemini"
     },
     "Genero": {
         "color": "#63408e",
@@ -842,6 +854,10 @@
     "HLSL": {
         "color": "#aace60",
         "url": "https://github.com/trending?l=HLSL"
+    },
+    "HOCON": {
+        "color": "#9ff8ee",
+        "url": "https://github.com/trending?l=HOCON"
     },
     "HolyC": {
         "color": "#ffefaf",
