@@ -107,7 +107,7 @@ def write_readme(text, filename='README.md'):
                 colorless[lang] = text[lang]["url"]
             else:
                 # text[lang]["color"][1:] : remove first char ("#") from the color ("#fefefe")
-                f.write("[![](http://via.placeholder.com/148x148/%s/%s&text=%s)](%s)" %
+                f.write("[![](https://dummyimage.com/148x148/%s/%s.jpg&text=%s)](%s)" %
                     (text[lang]["color"][1:],
                     'ffffff' if is_dark(text[lang]["color"][1:]) else '111111',
                     quote(lang), text[lang]["url"])
