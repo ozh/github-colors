@@ -1499,6 +1499,10 @@
         "color": "#e5cd45",
         "url": "https://github.com/trending?l=OpenSCAD"
     },
+    "Option List": {
+        "color": "#476732",
+        "url": "https://github.com/trending?l=Option-List"
+    },
     "Org": {
         "color": "#77aa99",
         "url": "https://github.com/trending?l=Org"
@@ -1890,6 +1894,10 @@
     "Sieve": {
         "color": null,
         "url": "https://github.com/trending?l=Sieve"
+    },
+    "Simple File Verification": {
+        "color": "#C9BFED",
+        "url": "https://github.com/trending?l=Simple-File-Verification"
     },
     "Singularity": {
         "color": "#64E6AD",
