@@ -443,6 +443,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Cycript"
     },
+    "Cypher": {
+        "color": "#34c0eb",
+        "url": "https://github.com/trending?l=Cypher"
+    },
     "Cython": {
         "color": "#fedf5b",
         "url": "https://github.com/trending?l=Cython"
@@ -927,6 +931,10 @@
         "color": "#99AAFF",
         "url": "https://github.com/trending?l=ImageJ-Macro"
     },
+    "Imba": {
+        "color": "#16cec6",
+        "url": "https://github.com/trending?l=Imba"
+    },
     "Inform 7": {
         "color": null,
         "url": "https://github.com/trending?l=Inform-7"
@@ -1054,6 +1062,10 @@
     "Jupyter Notebook": {
         "color": "#DA5B0B",
         "url": "https://github.com/trending?l=Jupyter-Notebook"
+    },
+    "just": {
+        "color": "#384d54",
+        "url": "https://github.com/trending?l=just"
     },
     "Kaitai Struct": {
         "color": "#773b37",
@@ -1435,6 +1447,22 @@
         "color": "#111522",
         "url": "https://github.com/trending?l=NWScript"
     },
+    "OASv2-json": {
+        "color": "#85ea2d",
+        "url": "https://github.com/trending?l=OASv2-json"
+    },
+    "OASv2-yaml": {
+        "color": "#85ea2d",
+        "url": "https://github.com/trending?l=OASv2-yaml"
+    },
+    "OASv3-json": {
+        "color": "#85ea2d",
+        "url": "https://github.com/trending?l=OASv3-json"
+    },
+    "OASv3-yaml": {
+        "color": "#85ea2d",
+        "url": "https://github.com/trending?l=OASv3-yaml"
+    },
     "Objective-C": {
         "color": "#438eff",
         "url": "https://github.com/trending?l=Objective-C"
@@ -1478,6 +1506,14 @@
     "Open Policy Agent": {
         "color": "#7d9199",
         "url": "https://github.com/trending?l=Open-Policy-Agent"
+    },
+    "OpenAPI Specification v2": {
+        "color": "#85ea2d",
+        "url": "https://github.com/trending?l=OpenAPI-Specification-v2"
+    },
+    "OpenAPI Specification v3": {
+        "color": "#85ea2d",
+        "url": "https://github.com/trending?l=OpenAPI-Specification-v3"
     },
     "OpenCL": {
         "color": "#ed2e2d",
@@ -1551,6 +1587,10 @@
         "color": "#dbb284",
         "url": "https://github.com/trending?l=Pawn"
     },
+    "PDDL": {
+        "color": "#0d00ff",
+        "url": "https://github.com/trending?l=PDDL"
+    },
     "PEG.js": {
         "color": "#234d6b",
         "url": "https://github.com/trending?l=PEG.js"
@@ -1590,6 +1630,10 @@
     "PogoScript": {
         "color": "#d80074",
         "url": "https://github.com/trending?l=PogoScript"
+    },
+    "Polar": {
+        "color": "#ae81ff",
+        "url": "https://github.com/trending?l=Polar"
     },
     "Pony": {
         "color": null,
@@ -1850,6 +1894,10 @@
     "Scaml": {
         "color": "#bd181a",
         "url": "https://github.com/trending?l=Scaml"
+    },
+    "Scenic": {
+        "color": "#fdc700",
+        "url": "https://github.com/trending?l=Scenic"
     },
     "Scheme": {
         "color": "#1e4aec",
@@ -2174,6 +2222,10 @@
     "Visual Basic .NET": {
         "color": "#945db7",
         "url": "https://github.com/trending?l=Visual-Basic-.NET"
+    },
+    "Visual Basic 6.0": {
+        "color": "#2c6353",
+        "url": "https://github.com/trending?l=Visual-Basic-6.0"
     },
     "Volt": {
         "color": "#1F1F1F",
