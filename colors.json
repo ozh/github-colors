@@ -1255,6 +1255,10 @@
         "color": "#ff2b2b",
         "url": "https://github.com/trending?l=Mercury"
     },
+    "Mermaid": {
+        "color": "#ff3670",
+        "url": "https://github.com/trending?l=Mermaid"
+    },
     "Meson": {
         "color": "#007800",
         "url": "https://github.com/trending?l=Meson"
