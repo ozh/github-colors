@@ -539,6 +539,10 @@
         "color": "#001d9d",
         "url": "https://github.com/trending?l=ECLiPSe"
     },
+    "Ecmarkup": {
+        "color": "#eb8131",
+        "url": "https://github.com/trending?l=Ecmarkup"
+    },
     "EditorConfig": {
         "color": "#fff1f2",
         "url": "https://github.com/trending?l=EditorConfig"
@@ -942,6 +946,10 @@
     "INI": {
         "color": "#d1dbe0",
         "url": "https://github.com/trending?l=INI"
+    },
+    "Ink": {
+        "color": null,
+        "url": "https://github.com/trending?l=Ink"
     },
     "Inno Setup": {
         "color": "#264b99",
@@ -1978,6 +1986,10 @@
     "Smarty": {
         "color": "#f0c040",
         "url": "https://github.com/trending?l=Smarty"
+    },
+    "Smithy": {
+        "color": "#c44536",
+        "url": "https://github.com/trending?l=Smithy"
     },
     "SmPL": {
         "color": "#c94949",
