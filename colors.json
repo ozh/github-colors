@@ -307,6 +307,10 @@
         "color": "#3f8000",
         "url": "https://github.com/trending?l=ChucK"
     },
+    "Circom": {
+        "color": "#707575",
+        "url": "https://github.com/trending?l=Circom"
+    },
     "Cirru": {
         "color": "#ccccff",
         "url": "https://github.com/trending?l=Cirru"
@@ -503,6 +507,10 @@
         "color": "#cca760",
         "url": "https://github.com/trending?l=Dogescript"
     },
+    "Dotenv": {
+        "color": "#e5d559",
+        "url": "https://github.com/trending?l=Dotenv"
+    },
     "DTrace": {
         "color": null,
         "url": "https://github.com/trending?l=DTrace"
@@ -652,7 +660,7 @@
         "url": "https://github.com/trending?l=Fortran-Free-Form"
     },
     "FreeBasic": {
-        "color": "#867db1",
+        "color": "#141AC9",
         "url": "https://github.com/trending?l=FreeBasic"
     },
     "FreeMarker": {
@@ -783,6 +791,10 @@
         "color": "#00ADD8",
         "url": "https://github.com/trending?l=Go-Module"
     },
+    "Godot Resource": {
+        "color": "#355570",
+        "url": "https://github.com/trending?l=Godot-Resource"
+    },
     "Golo": {
         "color": "#88562A",
         "url": "https://github.com/trending?l=Golo"
@@ -852,7 +864,7 @@
         "url": "https://github.com/trending?l=Haxe"
     },
     "HCL": {
-        "color": null,
+        "color": "#844FBA",
         "url": "https://github.com/trending?l=HCL"
     },
     "HiveQL": {
@@ -1071,9 +1083,9 @@
         "color": "#DA5B0B",
         "url": "https://github.com/trending?l=Jupyter-Notebook"
     },
-    "just": {
+    "Just": {
         "color": "#384d54",
-        "url": "https://github.com/trending?l=just"
+        "url": "https://github.com/trending?l=Just"
     },
     "Kaitai Struct": {
         "color": "#773b37",
@@ -1082,6 +1094,10 @@
     "KakouneScript": {
         "color": "#6f8042",
         "url": "https://github.com/trending?l=KakouneScript"
+    },
+    "KerboScript": {
+        "color": "#41adf0",
+        "url": "https://github.com/trending?l=KerboScript"
     },
     "KiCad Layout": {
         "color": "#2f4aab",
@@ -1631,6 +1647,10 @@
         "color": "#005390",
         "url": "https://github.com/trending?l=Pike"
     },
+    "PlantUML": {
+        "color": "#fbbd16",
+        "url": "https://github.com/trending?l=PlantUML"
+    },
     "PLpgSQL": {
         "color": "#336790",
         "url": "https://github.com/trending?l=PLpgSQL"
@@ -1714,6 +1734,10 @@
     "PureScript": {
         "color": "#1D222D",
         "url": "https://github.com/trending?l=PureScript"
+    },
+    "Pyret": {
+        "color": "#ee1e10",
+        "url": "https://github.com/trending?l=Pyret"
     },
     "Python": {
         "color": "#3572A5",
