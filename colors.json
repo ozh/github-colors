@@ -1019,6 +1019,10 @@
         "color": "#f1e05a",
         "url": "https://github.com/trending?l=JavaScript+ERB"
     },
+    "JCL": {
+        "color": "#d90e09",
+        "url": "https://github.com/trending?l=JCL"
+    },
     "Jest Snapshot": {
         "color": "#15c213",
         "url": "https://github.com/trending?l=Jest-Snapshot"
