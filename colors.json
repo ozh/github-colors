@@ -575,6 +575,10 @@
         "color": "#55BB55",
         "url": "https://github.com/trending?l=Elvish"
     },
+    "Elvish Transcript": {
+        "color": "#55BB55",
+        "url": "https://github.com/trending?l=Elvish-Transcript"
+    },
     "Emacs Lisp": {
         "color": "#c065db",
         "url": "https://github.com/trending?l=Emacs-Lisp"
@@ -2026,6 +2030,10 @@
     "SMT": {
         "color": null,
         "url": "https://github.com/trending?l=SMT"
+    },
+    "Snakemake": {
+        "color": "#419179",
+        "url": "https://github.com/trending?l=Snakemake"
     },
     "Solidity": {
         "color": "#AA6746",
