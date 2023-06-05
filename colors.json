@@ -459,6 +459,10 @@
         "color": "#ba595e",
         "url": "https://github.com/trending?l=D"
     },
+    "D2": {
+        "color": "#526ee8",
+        "url": "https://github.com/trending?l=D2"
+    },
     "Dafny": {
         "color": "#FFEC25",
         "url": "https://github.com/trending?l=Dafny"
@@ -794,6 +798,10 @@
     "Go Module": {
         "color": "#00ADD8",
         "url": "https://github.com/trending?l=Go-Module"
+    },
+    "Go Workspace": {
+        "color": "#00ADD8",
+        "url": "https://github.com/trending?l=Go-Workspace"
     },
     "Godot Resource": {
         "color": "#355570",
@@ -1283,6 +1291,10 @@
         "color": "#E22837",
         "url": "https://github.com/trending?l=mcfunction"
     },
+    "MDX": {
+        "color": "#fcb32c",
+        "url": "https://github.com/trending?l=MDX"
+    },
     "Mercury": {
         "color": "#ff2b2b",
         "url": "https://github.com/trending?l=Mercury"
@@ -1479,6 +1491,10 @@
         "color": "#3d8137",
         "url": "https://github.com/trending?l=Nunjucks"
     },
+    "Nushell": {
+        "color": "#4E9906",
+        "url": "https://github.com/trending?l=Nushell"
+    },
     "NWScript": {
         "color": "#111522",
         "url": "https://github.com/trending?l=NWScript"
@@ -1516,7 +1532,7 @@
         "url": "https://github.com/trending?l=ObjectScript"
     },
     "OCaml": {
-        "color": "#3be133",
+        "color": "#ef7a08",
         "url": "https://github.com/trending?l=OCaml"
     },
     "Odin": {
@@ -1594,6 +1610,10 @@
     "P4": {
         "color": "#7055b5",
         "url": "https://github.com/trending?l=P4"
+    },
+    "Pact": {
+        "color": "#F7A8B8",
+        "url": "https://github.com/trending?l=Pact"
     },
     "Pan": {
         "color": "#cc0000",
@@ -1806,6 +1826,10 @@
     "Rascal": {
         "color": "#fffaa0",
         "url": "https://github.com/trending?l=Rascal"
+    },
+    "RBS": {
+        "color": "#701516",
+        "url": "https://github.com/trending?l=RBS"
     },
     "RDoc": {
         "color": "#701516",
@@ -2167,6 +2191,10 @@
         "color": "#A0AA87",
         "url": "https://github.com/trending?l=TI-Program"
     },
+    "TL-Verilog": {
+        "color": "#C40023",
+        "url": "https://github.com/trending?l=TL-Verilog"
+    },
     "TLA": {
         "color": "#4b0079",
         "url": "https://github.com/trending?l=TLA"
@@ -2295,9 +2323,9 @@
         "color": "#2980b9",
         "url": "https://github.com/trending?l=Vyper"
     },
-    "wdl": {
+    "WDL": {
         "color": "#42f1f4",
-        "url": "https://github.com/trending?l=wdl"
+        "url": "https://github.com/trending?l=WDL"
     },
     "Web Ontology Language": {
         "color": "#5b70bd",
@@ -2306,6 +2334,10 @@
     "WebAssembly": {
         "color": "#04133b",
         "url": "https://github.com/trending?l=WebAssembly"
+    },
+    "WebAssembly Interface Type": {
+        "color": "#6250e7",
+        "url": "https://github.com/trending?l=WebAssembly-Interface-Type"
     },
     "WebIDL": {
         "color": null,
