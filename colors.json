@@ -899,6 +899,10 @@
         "color": "#00b171",
         "url": "https://github.com/trending?l=hoon"
     },
+    "Hosts File": {
+        "color": "#308888",
+        "url": "https://github.com/trending?l=Hosts-File"
+    },
     "HTML": {
         "color": "#e34c26",
         "url": "https://github.com/trending?l=HTML"
@@ -2342,6 +2346,10 @@
     "WebIDL": {
         "color": null,
         "url": "https://github.com/trending?l=WebIDL"
+    },
+    "WGSL": {
+        "color": "#1a5e9a",
+        "url": "https://github.com/trending?l=WGSL"
     },
     "Whiley": {
         "color": "#d5c397",
