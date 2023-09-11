@@ -223,6 +223,10 @@
         "color": "#12223c",
         "url": "https://github.com/trending?l=Bluespec"
     },
+    "Bluespec BH": {
+        "color": "#12223c",
+        "url": "https://github.com/trending?l=Bluespec-BH"
+    },
     "Boo": {
         "color": "#d4bec1",
         "url": "https://github.com/trending?l=Boo"
@@ -1891,6 +1895,10 @@
         "color": "#d90e09",
         "url": "https://github.com/trending?l=REXX"
     },
+    "Rez": {
+        "color": "#FFDAB3",
+        "url": "https://github.com/trending?l=Rez"
+    },
     "Ring": {
         "color": "#2D54CB",
         "url": "https://github.com/trending?l=Ring"
@@ -2234,6 +2242,10 @@
     "TypeScript": {
         "color": "#3178c6",
         "url": "https://github.com/trending?l=TypeScript"
+    },
+    "Typst": {
+        "color": "#239dad",
+        "url": "https://github.com/trending?l=Typst"
     },
     "Unified Parallel C": {
         "color": "#4e3617",
