@@ -827,6 +827,10 @@
         "color": "#02303a",
         "url": "https://github.com/trending?l=Gradle"
     },
+    "Gradle Kotlin DSL": {
+        "color": "#02303a",
+        "url": "https://github.com/trending?l=Gradle-Kotlin-DSL"
+    },
     "Grammatical Framework": {
         "color": "#ff0000",
         "url": "https://github.com/trending?l=Grammatical-Framework"
@@ -2154,6 +2158,10 @@
     "Sway": {
         "color": "#dea584",
         "url": "https://github.com/trending?l=Sway"
+    },
+    "Sweave": {
+        "color": "#198ce7",
+        "url": "https://github.com/trending?l=Sweave"
     },
     "Swift": {
         "color": "#F05138",
