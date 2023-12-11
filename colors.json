@@ -559,6 +559,10 @@
         "color": "#eb8131",
         "url": "https://github.com/trending?l=Ecmarkup"
     },
+    "EdgeQL": {
+        "color": "#31A7FF",
+        "url": "https://github.com/trending?l=EdgeQL"
+    },
     "EditorConfig": {
         "color": "#fff1f2",
         "url": "https://github.com/trending?l=EditorConfig"
@@ -731,13 +735,13 @@
         "color": "#ff6900",
         "url": "https://github.com/trending?l=Gemini"
     },
-    "Genero": {
+    "Genero 4gl": {
         "color": "#63408e",
-        "url": "https://github.com/trending?l=Genero"
+        "url": "https://github.com/trending?l=Genero-4gl"
     },
-    "Genero Forms": {
+    "Genero per": {
         "color": "#d8df39",
-        "url": "https://github.com/trending?l=Genero-Forms"
+        "url": "https://github.com/trending?l=Genero-per"
     },
     "Genie": {
         "color": "#fb855d",
@@ -778,6 +782,10 @@
     "Gleam": {
         "color": "#ffaff3",
         "url": "https://github.com/trending?l=Gleam"
+    },
+    "Glimmer JS": {
+        "color": "#F5835F",
+        "url": "https://github.com/trending?l=Glimmer-JS"
     },
     "GLSL": {
         "color": "#5686a5",
@@ -1170,6 +1178,10 @@
     "Lean": {
         "color": null,
         "url": "https://github.com/trending?l=Lean"
+    },
+    "Lean 4": {
+        "color": null,
+        "url": "https://github.com/trending?l=Lean-4"
     },
     "Less": {
         "color": "#1d365d",
@@ -1735,6 +1747,10 @@
         "color": "#012456",
         "url": "https://github.com/trending?l=PowerShell"
     },
+    "Praat": {
+        "color": "#c8506d",
+        "url": "https://github.com/trending?l=Praat"
+    },
     "Prisma": {
         "color": "#0c344b",
         "url": "https://github.com/trending?l=Prisma"
@@ -2156,7 +2172,7 @@
         "url": "https://github.com/trending?l=SVG"
     },
     "Sway": {
-        "color": "#dea584",
+        "color": "#00F58C",
         "url": "https://github.com/trending?l=Sway"
     },
     "Sweave": {
@@ -2218,6 +2234,10 @@
     "TLA": {
         "color": "#4b0079",
         "url": "https://github.com/trending?l=TLA"
+    },
+    "Toit": {
+        "color": "#c2c9fb",
+        "url": "https://github.com/trending?l=Toit"
     },
     "TOML": {
         "color": "#9c4221",
