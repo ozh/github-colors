@@ -2207,6 +2207,10 @@
         "color": "#00004c",
         "url": "https://github.com/trending?l=Terra"
     },
+    "Terraform Template": {
+        "color": "#7b42bb",
+        "url": "https://github.com/trending?l=Terraform-Template"
+    },
     "TeX": {
         "color": "#3D6117",
         "url": "https://github.com/trending?l=TeX"
