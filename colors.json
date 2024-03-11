@@ -559,6 +559,10 @@
         "color": "#eb8131",
         "url": "https://github.com/trending?l=Ecmarkup"
     },
+    "Edge": {
+        "color": "#0dffe0",
+        "url": "https://github.com/trending?l=Edge"
+    },
     "EdgeQL": {
         "color": "#31A7FF",
         "url": "https://github.com/trending?l=EdgeQL"
@@ -786,6 +790,10 @@
     "Glimmer JS": {
         "color": "#F5835F",
         "url": "https://github.com/trending?l=Glimmer-JS"
+    },
+    "Glimmer TS": {
+        "color": "#3178c6",
+        "url": "https://github.com/trending?l=Glimmer-TS"
     },
     "GLSL": {
         "color": "#5686a5",
@@ -1699,6 +1707,10 @@
         "color": "#005390",
         "url": "https://github.com/trending?l=Pike"
     },
+    "Pip Requirements": {
+        "color": "#FFD343",
+        "url": "https://github.com/trending?l=Pip-Requirements"
+    },
     "PlantUML": {
         "color": "#fbbd16",
         "url": "https://github.com/trending?l=PlantUML"
@@ -1934,6 +1946,10 @@
     "RobotFramework": {
         "color": "#00c0b5",
         "url": "https://github.com/trending?l=RobotFramework"
+    },
+    "Roc": {
+        "color": "#7c38f5",
+        "url": "https://github.com/trending?l=Roc"
     },
     "Roff": {
         "color": "#ecdebe",
@@ -2214,6 +2230,10 @@
     "TeX": {
         "color": "#3D6117",
         "url": "https://github.com/trending?l=TeX"
+    },
+    "TextGrid": {
+        "color": "#c8506d",
+        "url": "https://github.com/trending?l=TextGrid"
     },
     "Textile": {
         "color": "#ffe7ac",
