@@ -1383,6 +1383,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Module-Management-System"
     },
+    "Mojo": {
+        "color": "#ff4c1f",
+        "url": "https://github.com/trending?l=Mojo"
+    },
     "Monkey": {
         "color": null,
         "url": "https://github.com/trending?l=Monkey"
@@ -1546,6 +1550,10 @@
     "OASv3-yaml": {
         "color": "#85ea2d",
         "url": "https://github.com/trending?l=OASv3-yaml"
+    },
+    "Oberon": {
+        "color": null,
+        "url": "https://github.com/trending?l=Oberon"
     },
     "Objective-C": {
         "color": "#438eff",
@@ -2078,6 +2086,10 @@
     "Slim": {
         "color": "#2b2b2b",
         "url": "https://github.com/trending?l=Slim"
+    },
+    "Slint": {
+        "color": "#2379F4",
+        "url": "https://github.com/trending?l=Slint"
     },
     "Smali": {
         "color": null,
