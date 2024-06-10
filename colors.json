@@ -235,6 +235,10 @@
         "color": "#c80fa0",
         "url": "https://github.com/trending?l=Boogie"
     },
+    "BQN": {
+        "color": "#2b7067",
+        "url": "https://github.com/trending?l=BQN"
+    },
     "Brainfuck": {
         "color": "#2F2530",
         "url": "https://github.com/trending?l=Brainfuck"
@@ -270,6 +274,10 @@
     "Cabal Config": {
         "color": "#483465",
         "url": "https://github.com/trending?l=Cabal-Config"
+    },
+    "Caddyfile": {
+        "color": "#22b638",
+        "url": "https://github.com/trending?l=Caddyfile"
     },
     "Cadence": {
         "color": "#00ef8b",
@@ -402,6 +410,10 @@
     "Coq": {
         "color": "#d0b68c",
         "url": "https://github.com/trending?l=Coq"
+    },
+    "crontab": {
+        "color": "#ead7ac",
+        "url": "https://github.com/trending?l=crontab"
     },
     "Crystal": {
         "color": "#000100",
@@ -654,6 +666,10 @@
     "Filterscript": {
         "color": null,
         "url": "https://github.com/trending?l=Filterscript"
+    },
+    "FIRRTL": {
+        "color": "#2f632f",
+        "url": "https://github.com/trending?l=FIRRTL"
     },
     "fish": {
         "color": "#4aae47",
@@ -1123,6 +1139,10 @@
         "color": "#a270ba",
         "url": "https://github.com/trending?l=Julia"
     },
+    "Julia REPL": {
+        "color": "#a270ba",
+        "url": "https://github.com/trending?l=Julia-REPL"
+    },
     "Jupyter Notebook": {
         "color": "#DA5B0B",
         "url": "https://github.com/trending?l=Jupyter-Notebook"
@@ -1266,6 +1286,10 @@
     "Lua": {
         "color": "#000080",
         "url": "https://github.com/trending?l=Lua"
+    },
+    "Luau": {
+        "color": "#00A2FF",
+        "url": "https://github.com/trending?l=Luau"
     },
     "M": {
         "color": null,
@@ -1507,6 +1531,10 @@
         "color": "#7e7eff",
         "url": "https://github.com/trending?l=Nix"
     },
+    "NMODL": {
+        "color": "#00356B",
+        "url": "https://github.com/trending?l=NMODL"
+    },
     "NPM Config": {
         "color": "#cb3837",
         "url": "https://github.com/trending?l=NPM-Config"
@@ -1718,6 +1746,10 @@
     "Pip Requirements": {
         "color": "#FFD343",
         "url": "https://github.com/trending?l=Pip-Requirements"
+    },
+    "Pkl": {
+        "color": "#6b9543",
+        "url": "https://github.com/trending?l=Pkl"
     },
     "PlantUML": {
         "color": "#fbbd16",
@@ -1966,6 +1998,10 @@
     "Roff Manpage": {
         "color": "#ecdebe",
         "url": "https://github.com/trending?l=Roff-Manpage"
+    },
+    "RON": {
+        "color": "#a62c00",
+        "url": "https://github.com/trending?l=RON"
     },
     "Rouge": {
         "color": "#cc0088",
@@ -2230,6 +2266,10 @@
     "Tcsh": {
         "color": null,
         "url": "https://github.com/trending?l=Tcsh"
+    },
+    "templ": {
+        "color": "#66D0DD",
+        "url": "https://github.com/trending?l=templ"
     },
     "Terra": {
         "color": "#00004c",
