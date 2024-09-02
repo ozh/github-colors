@@ -163,6 +163,10 @@
         "color": "#c30e9b",
         "url": "https://github.com/trending?l=Awk"
     },
+    "B4X": {
+        "color": "#00e4ff",
+        "url": "https://github.com/trending?l=B4X"
+    },
     "Ballerina": {
         "color": "#FF5000",
         "url": "https://github.com/trending?l=Ballerina"
@@ -287,6 +291,10 @@
         "color": "#ff4a48",
         "url": "https://github.com/trending?l=Cairo"
     },
+    "Cairo Zero": {
+        "color": "#ff4a48",
+        "url": "https://github.com/trending?l=Cairo-Zero"
+    },
     "CameLIGO": {
         "color": "#3be133",
         "url": "https://github.com/trending?l=CameLIGO"
@@ -298,6 +306,10 @@
     "Cap'n Proto": {
         "color": "#c42727",
         "url": "https://github.com/trending?l=Cap'n-Proto"
+    },
+    "Carbon": {
+        "color": "#222222",
+        "url": "https://github.com/trending?l=Carbon"
     },
     "CartoCSS": {
         "color": null,
@@ -463,6 +475,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Cycript"
     },
+    "Cylc": {
+        "color": "#00b3fd",
+        "url": "https://github.com/trending?l=Cylc"
+    },
     "Cypher": {
         "color": "#34c0eb",
         "url": "https://github.com/trending?l=Cypher"
@@ -534,6 +550,10 @@
     "DTrace": {
         "color": null,
         "url": "https://github.com/trending?l=DTrace"
+    },
+    "Dune": {
+        "color": "#89421e",
+        "url": "https://github.com/trending?l=Dune"
     },
     "Dylan": {
         "color": "#6c616e",
@@ -983,6 +1003,10 @@
         "color": null,
         "url": "https://github.com/trending?l=HyPhy"
     },
+    "iCalendar": {
+        "color": "#ec564c",
+        "url": "https://github.com/trending?l=iCalendar"
+    },
     "IDL": {
         "color": "#a3522f",
         "url": "https://github.com/trending?l=IDL"
@@ -1066,6 +1090,10 @@
     "Java Server Pages": {
         "color": "#2A6277",
         "url": "https://github.com/trending?l=Java-Server-Pages"
+    },
+    "Java Template Engine": {
+        "color": "#2A6277",
+        "url": "https://github.com/trending?l=Java-Template-Engine"
     },
     "JavaScript": {
         "color": "#f1e05a",
@@ -1250,6 +1278,10 @@
     "Literate Haskell": {
         "color": "#5e5086",
         "url": "https://github.com/trending?l=Literate-Haskell"
+    },
+    "LiveCode Script": {
+        "color": "#0c5ba5",
+        "url": "https://github.com/trending?l=LiveCode-Script"
     },
     "LiveScript": {
         "color": "#499886",
@@ -1534,6 +1566,10 @@
     "NMODL": {
         "color": "#00356B",
         "url": "https://github.com/trending?l=NMODL"
+    },
+    "Noir": {
+        "color": "#2f1f49",
+        "url": "https://github.com/trending?l=Noir"
     },
     "NPM Config": {
         "color": "#cb3837",
@@ -2394,6 +2430,10 @@
     "VBScript": {
         "color": "#15dcdc",
         "url": "https://github.com/trending?l=VBScript"
+    },
+    "vCard": {
+        "color": "#ee2647",
+        "url": "https://github.com/trending?l=vCard"
     },
     "VCL": {
         "color": "#148AA8",
