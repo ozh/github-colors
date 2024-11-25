@@ -448,7 +448,7 @@
         "url": "https://github.com/trending?l=Csound-Score"
     },
     "CSS": {
-        "color": "#563d7c",
+        "color": "#663399",
         "url": "https://github.com/trending?l=CSS"
     },
     "CSV": {
@@ -715,9 +715,9 @@
         "color": "#4d41b1",
         "url": "https://github.com/trending?l=Fortran-Free-Form"
     },
-    "FreeBasic": {
+    "FreeBASIC": {
         "color": "#141AC9",
-        "url": "https://github.com/trending?l=FreeBasic"
+        "url": "https://github.com/trending?l=FreeBASIC"
     },
     "FreeMarker": {
         "color": "#0050b2",
@@ -926,6 +926,10 @@
     "Harbour": {
         "color": "#0e60e3",
         "url": "https://github.com/trending?l=Harbour"
+    },
+    "Hare": {
+        "color": "#9d7424",
+        "url": "https://github.com/trending?l=Hare"
     },
     "Haskell": {
         "color": "#5e5086",
@@ -1455,6 +1459,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Moocode"
     },
+    "MoonBit": {
+        "color": "#b92381",
+        "url": "https://github.com/trending?l=MoonBit"
+    },
     "MoonScript": {
         "color": "#ff4585",
         "url": "https://github.com/trending?l=MoonScript"
@@ -1646,6 +1654,10 @@
     "Omgrofl": {
         "color": "#cabbff",
         "url": "https://github.com/trending?l=Omgrofl"
+    },
+    "omnetpp-ned": {
+        "color": "#08607c",
+        "url": "https://github.com/trending?l=omnetpp-ned"
     },
     "ooc": {
         "color": "#b0b77e",
@@ -2291,6 +2303,10 @@
         "color": "#DAE1C2",
         "url": "https://github.com/trending?l=SystemVerilog"
     },
+    "Tact": {
+        "color": "#48b5ff",
+        "url": "https://github.com/trending?l=Tact"
+    },
     "Talon": {
         "color": "#333333",
         "url": "https://github.com/trending?l=Talon"
@@ -2382,6 +2398,10 @@
     "TypeScript": {
         "color": "#3178c6",
         "url": "https://github.com/trending?l=TypeScript"
+    },
+    "TypeSpec": {
+        "color": "#4A3665",
+        "url": "https://github.com/trending?l=TypeSpec"
     },
     "Typst": {
         "color": "#239dad",
