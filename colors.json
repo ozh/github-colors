@@ -1655,6 +1655,10 @@
         "color": "#cabbff",
         "url": "https://github.com/trending?l=Omgrofl"
     },
+    "omnetpp-msg": {
+        "color": "#a0e0a0",
+        "url": "https://github.com/trending?l=omnetpp-msg"
+    },
     "omnetpp-ned": {
         "color": "#08607c",
         "url": "https://github.com/trending?l=omnetpp-ned"
@@ -1930,6 +1934,10 @@
     "Quake": {
         "color": "#882233",
         "url": "https://github.com/trending?l=Quake"
+    },
+    "QuickBASIC": {
+        "color": "#008080",
+        "url": "https://github.com/trending?l=QuickBASIC"
     },
     "R": {
         "color": "#198CE7",
