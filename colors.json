@@ -71,6 +71,10 @@
         "color": "#C7D7DC",
         "url": "https://github.com/trending?l=AngelScript"
     },
+    "Answer Set Programming": {
+        "color": "#A9CC29",
+        "url": "https://github.com/trending?l=Answer-Set-Programming"
+    },
     "Ant Build System": {
         "color": "#A9157E",
         "url": "https://github.com/trending?l=Ant-Build-System"
@@ -1191,6 +1195,10 @@
         "color": "#6f8042",
         "url": "https://github.com/trending?l=KakouneScript"
     },
+    "KDL": {
+        "color": "#ffb3b3",
+        "url": "https://github.com/trending?l=KDL"
+    },
     "KerboScript": {
         "color": "#41adf0",
         "url": "https://github.com/trending?l=KerboScript"
@@ -1266,6 +1274,10 @@
     "Limbo": {
         "color": null,
         "url": "https://github.com/trending?l=Limbo"
+    },
+    "Linear Programming": {
+        "color": null,
+        "url": "https://github.com/trending?l=Linear-Programming"
     },
     "Liquid": {
         "color": "#67b8de",
@@ -1383,6 +1395,10 @@
         "color": "#E22837",
         "url": "https://github.com/trending?l=mcfunction"
     },
+    "mdsvex": {
+        "color": "#5f9ea0",
+        "url": "https://github.com/trending?l=mdsvex"
+    },
     "MDX": {
         "color": "#fcb32c",
         "url": "https://github.com/trending?l=MDX"
@@ -1410,6 +1426,10 @@
     "MiniYAML": {
         "color": "#ff1111",
         "url": "https://github.com/trending?l=MiniYAML"
+    },
+    "MiniZinc": {
+        "color": "#06a9e6",
+        "url": "https://github.com/trending?l=MiniZinc"
     },
     "Mint": {
         "color": "#02b046",
@@ -1655,13 +1675,13 @@
         "color": "#cabbff",
         "url": "https://github.com/trending?l=Omgrofl"
     },
-    "omnetpp-msg": {
+    "OMNeT++ MSG": {
         "color": "#a0e0a0",
-        "url": "https://github.com/trending?l=omnetpp-msg"
+        "url": "https://github.com/trending?l=OMNeT++-MSG"
     },
-    "omnetpp-ned": {
+    "OMNeT++ NED": {
         "color": "#08607c",
-        "url": "https://github.com/trending?l=omnetpp-ned"
+        "url": "https://github.com/trending?l=OMNeT++-NED"
     },
     "ooc": {
         "color": "#b0b77e",
@@ -1714,6 +1734,10 @@
     "Org": {
         "color": "#77aa99",
         "url": "https://github.com/trending?l=Org"
+    },
+    "OverpassQL": {
+        "color": "#cce2aa",
+        "url": "https://github.com/trending?l=OverpassQL"
     },
     "Ox": {
         "color": null,
@@ -2282,6 +2306,10 @@
     "SuperCollider": {
         "color": "#46390b",
         "url": "https://github.com/trending?l=SuperCollider"
+    },
+    "Survex data": {
+        "color": "#ffcc99",
+        "url": "https://github.com/trending?l=Survex-data"
     },
     "Svelte": {
         "color": "#ff3e00",
