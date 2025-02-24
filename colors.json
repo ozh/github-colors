@@ -1071,6 +1071,10 @@
         "color": "#FEFE00",
         "url": "https://github.com/trending?l=Isabelle-ROOT"
     },
+    "ISPC": {
+        "color": "#2D68B1",
+        "url": "https://github.com/trending?l=ISPC"
+    },
     "J": {
         "color": "#9EEDFF",
         "url": "https://github.com/trending?l=J"
@@ -1282,6 +1286,10 @@
     "Linear Programming": {
         "color": null,
         "url": "https://github.com/trending?l=Linear-Programming"
+    },
+    "Linker Script": {
+        "color": null,
+        "url": "https://github.com/trending?l=Linker-Script"
     },
     "Liquid": {
         "color": "#67b8de",
@@ -2194,6 +2202,10 @@
     "Singularity": {
         "color": "#64E6AD",
         "url": "https://github.com/trending?l=Singularity"
+    },
+    "Slang": {
+        "color": "#1fbec9",
+        "url": "https://github.com/trending?l=Slang"
     },
     "Slash": {
         "color": "#007eff",
