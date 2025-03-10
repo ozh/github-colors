@@ -2423,6 +2423,10 @@
         "color": "#9c4221",
         "url": "https://github.com/trending?l=TOML"
     },
+    "Tree-sitter Query": {
+        "color": "#8ea64c",
+        "url": "https://github.com/trending?l=Tree-sitter-Query"
+    },
     "TSQL": {
         "color": "#e38c00",
         "url": "https://github.com/trending?l=TSQL"
