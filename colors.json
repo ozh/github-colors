@@ -199,6 +199,10 @@
         "color": "#778899",
         "url": "https://github.com/trending?l=BibTeX"
     },
+    "BibTeX Style": {
+        "color": null,
+        "url": "https://github.com/trending?l=BibTeX-Style"
+    },
     "Bicep": {
         "color": "#519aba",
         "url": "https://github.com/trending?l=Bicep"

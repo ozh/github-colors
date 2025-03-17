@@ -5,6 +5,7 @@
 A few other languages don't have their own color on GitHub :(
 * [ASL](https://github.com/trending?l=ASL)
 * [Befunge](https://github.com/trending?l=Befunge)
+* [BibTeX Style](https://github.com/trending?l=BibTeX-Style)
 * [C2hs Haskell](https://github.com/trending?l=C2hs-Haskell)
 * [CartoCSS](https://github.com/trending?l=CartoCSS)
 * [Charity](https://github.com/trending?l=Charity)
@@ -64,4 +65,4 @@ A few other languages don't have their own color on GitHub :(
 
 Curious about all this? Check `ABOUT.md`
 
-<!-- updated: 2025-03-10 19:22:29.471739 -->
+<!-- updated: 2025-03-17 19:22:07.169410 -->
