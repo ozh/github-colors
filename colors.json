@@ -427,10 +427,6 @@
         "color": null,
         "url": "https://github.com/trending?l=Cool"
     },
-    "Coq": {
-        "color": "#d0b68c",
-        "url": "https://github.com/trending?l=Coq"
-    },
     "crontab": {
         "color": "#ead7ac",
         "url": "https://github.com/trending?l=crontab"
@@ -951,6 +947,10 @@
         "color": "#844FBA",
         "url": "https://github.com/trending?l=HCL"
     },
+    "HIP": {
+        "color": "#4F3A4F",
+        "url": "https://github.com/trending?l=HIP"
+    },
     "HiveQL": {
         "color": "#dce200",
         "url": "https://github.com/trending?l=HiveQL"
@@ -1226,6 +1226,10 @@
     "KiCad Schematic": {
         "color": "#2f4aab",
         "url": "https://github.com/trending?l=KiCad-Schematic"
+    },
+    "Koka": {
+        "color": "#215166",
+        "url": "https://github.com/trending?l=Koka"
     },
     "Kotlin": {
         "color": "#A97BFF",
@@ -2087,6 +2091,10 @@
         "color": "#7c38f5",
         "url": "https://github.com/trending?l=Roc"
     },
+    "Rocq Prover": {
+        "color": "#d0b68c",
+        "url": "https://github.com/trending?l=Rocq-Prover"
+    },
     "Roff": {
         "color": "#ecdebe",
         "url": "https://github.com/trending?l=Roff"
@@ -2130,6 +2138,10 @@
     "Sage": {
         "color": null,
         "url": "https://github.com/trending?l=Sage"
+    },
+    "Sail": {
+        "color": "#259dd5",
+        "url": "https://github.com/trending?l=Sail"
     },
     "SaltStack": {
         "color": "#646464",
