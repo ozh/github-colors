@@ -1363,6 +1363,10 @@
         "color": null,
         "url": "https://github.com/trending?l=M"
     },
+    "M3U": {
+        "color": "#179C7D",
+        "url": "https://github.com/trending?l=M3U"
+    },
     "M4": {
         "color": null,
         "url": "https://github.com/trending?l=M4"
