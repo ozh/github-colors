@@ -47,6 +47,10 @@
         "color": "#34EB6B",
         "url": "https://github.com/trending?l=AIDL"
     },
+    "Aiken": {
+        "color": "#640ff8",
+        "url": "https://github.com/trending?l=Aiken"
+    },
     "AL": {
         "color": "#3AA2B5",
         "url": "https://github.com/trending?l=AL"
@@ -387,6 +391,10 @@
         "color": "#FFA000",
         "url": "https://github.com/trending?l=Cloud-Firestore-Security-Rules"
     },
+    "Clue": {
+        "color": "#0009b5",
+        "url": "https://github.com/trending?l=Clue"
+    },
     "CMake": {
         "color": "#DA3434",
         "url": "https://github.com/trending?l=CMake"
@@ -514,6 +522,10 @@
     "Dart": {
         "color": "#00B4AB",
         "url": "https://github.com/trending?l=Dart"
+    },
+    "Daslang": {
+        "color": "#d3d3d3",
+        "url": "https://github.com/trending?l=Daslang"
     },
     "DataWeave": {
         "color": "#003a52",
@@ -1270,6 +1282,10 @@
     "Lean 4": {
         "color": null,
         "url": "https://github.com/trending?l=Lean-4"
+    },
+    "Leo": {
+        "color": "#6814EC",
+        "url": "https://github.com/trending?l=Leo"
     },
     "Less": {
         "color": "#1d365d",
@@ -2447,6 +2463,10 @@
         "color": "#9c4221",
         "url": "https://github.com/trending?l=TOML"
     },
+    "Tor Config": {
+        "color": "#59316b",
+        "url": "https://github.com/trending?l=Tor-Config"
+    },
     "Tree-sitter Query": {
         "color": "#8ea64c",
         "url": "https://github.com/trending?l=Tree-sitter-Query"
@@ -2506,6 +2526,10 @@
     "UnrealScript": {
         "color": "#a54c4d",
         "url": "https://github.com/trending?l=UnrealScript"
+    },
+    "Untyped Plutus Core": {
+        "color": "#36adbd",
+        "url": "https://github.com/trending?l=Untyped-Plutus-Core"
     },
     "UrWeb": {
         "color": "#ccccee",
@@ -2580,7 +2604,7 @@
         "url": "https://github.com/trending?l=Vue"
     },
     "Vyper": {
-        "color": "#2980b9",
+        "color": "#9F4CF2",
         "url": "https://github.com/trending?l=Vyper"
     },
     "WDL": {
@@ -2738,5 +2762,9 @@
     "Zimpl": {
         "color": "#d67711",
         "url": "https://github.com/trending?l=Zimpl"
+    },
+    "Zmodel": {
+        "color": "#ff7100",
+        "url": "https://github.com/trending?l=Zmodel"
     }
 }
