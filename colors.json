@@ -783,6 +783,10 @@
         "color": "#355570",
         "url": "https://github.com/trending?l=GDScript"
     },
+    "GDShader": {
+        "color": "#478CBF",
+        "url": "https://github.com/trending?l=GDShader"
+    },
     "GEDCOM": {
         "color": "#003058",
         "url": "https://github.com/trending?l=GEDCOM"
@@ -1284,7 +1288,7 @@
         "url": "https://github.com/trending?l=Lean-4"
     },
     "Leo": {
-        "color": "#6814EC",
+        "color": "#C4FFC2",
         "url": "https://github.com/trending?l=Leo"
     },
     "Less": {
@@ -2566,6 +2570,10 @@
     "Velocity Template Language": {
         "color": "#507cff",
         "url": "https://github.com/trending?l=Velocity-Template-Language"
+    },
+    "Vento": {
+        "color": "#ff0080",
+        "url": "https://github.com/trending?l=Vento"
     },
     "Verilog": {
         "color": "#b2b7f8",
