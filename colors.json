@@ -1627,6 +1627,10 @@
         "color": "#009639",
         "url": "https://github.com/trending?l=Nginx"
     },
+    "Nickel": {
+        "color": "#E0C3FC",
+        "url": "https://github.com/trending?l=Nickel"
+    },
     "Nim": {
         "color": "#ffc200",
         "url": "https://github.com/trending?l=Nim"
