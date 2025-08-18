@@ -291,6 +291,10 @@
         "color": null,
         "url": "https://github.com/trending?l=C2hs-Haskell"
     },
+    "C3": {
+        "color": "#2563eb",
+        "url": "https://github.com/trending?l=C3"
+    },
     "Cabal Config": {
         "color": "#483465",
         "url": "https://github.com/trending?l=Cabal-Config"
@@ -2138,6 +2142,10 @@
     "RON": {
         "color": "#a62c00",
         "url": "https://github.com/trending?l=RON"
+    },
+    "ROS Interface": {
+        "color": "#22314e",
+        "url": "https://github.com/trending?l=ROS-Interface"
     },
     "Rouge": {
         "color": "#cc0088",
