@@ -439,6 +439,10 @@
         "color": "#B0CE4E",
         "url": "https://github.com/trending?l=Component-Pascal"
     },
+    "Cooklang": {
+        "color": "#E15A29",
+        "url": "https://github.com/trending?l=Cooklang"
+    },
     "Cool": {
         "color": null,
         "url": "https://github.com/trending?l=Cool"
@@ -2014,6 +2018,10 @@
     "Quake": {
         "color": "#882233",
         "url": "https://github.com/trending?l=Quake"
+    },
+    "QuakeC": {
+        "color": "#975777",
+        "url": "https://github.com/trending?l=QuakeC"
     },
     "QuickBASIC": {
         "color": "#008080",
