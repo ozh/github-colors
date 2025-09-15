@@ -271,6 +271,10 @@
         "color": "#ffd539",
         "url": "https://github.com/trending?l=Browserslist"
     },
+    "Bru": {
+        "color": "#F4AA41",
+        "url": "https://github.com/trending?l=Bru"
+    },
     "BuildStream": {
         "color": "#006bff",
         "url": "https://github.com/trending?l=BuildStream"
@@ -722,6 +726,10 @@
     "fish": {
         "color": "#4aae47",
         "url": "https://github.com/trending?l=fish"
+    },
+    "Flix": {
+        "color": "#d44a45",
+        "url": "https://github.com/trending?l=Flix"
     },
     "Fluent": {
         "color": "#ffcc33",
@@ -1258,6 +1266,10 @@
     "Koka": {
         "color": "#215166",
         "url": "https://github.com/trending?l=Koka"
+    },
+    "KoLMafia ASH": {
+        "color": "#B9D9B9",
+        "url": "https://github.com/trending?l=KoLMafia-ASH"
     },
     "Kotlin": {
         "color": "#A97BFF",
