@@ -119,6 +119,10 @@
         "color": "#aa2afe",
         "url": "https://github.com/trending?l=Arc"
     },
+    "ArkTS": {
+        "color": "#0080ff",
+        "url": "https://github.com/trending?l=ArkTS"
+    },
     "AsciiDoc": {
         "color": "#73a0c5",
         "url": "https://github.com/trending?l=AsciiDoc"
@@ -851,6 +855,10 @@
         "color": "#F44D27",
         "url": "https://github.com/trending?l=Git-Attributes"
     },
+    "Git Commit": {
+        "color": "#F44D27",
+        "url": "https://github.com/trending?l=Git-Commit"
+    },
     "Git Config": {
         "color": "#F44D27",
         "url": "https://github.com/trending?l=Git-Config"
@@ -1267,9 +1275,9 @@
         "color": "#215166",
         "url": "https://github.com/trending?l=Koka"
     },
-    "KoLMafia ASH": {
+    "KoLmafia ASH": {
         "color": "#B9D9B9",
-        "url": "https://github.com/trending?l=KoLMafia-ASH"
+        "url": "https://github.com/trending?l=KoLmafia-ASH"
     },
     "Kotlin": {
         "color": "#A97BFF",
