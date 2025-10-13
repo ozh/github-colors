@@ -327,6 +327,10 @@
         "color": "#3be133",
         "url": "https://github.com/trending?l=CameLIGO"
     },
+    "Cangjie": {
+        "color": "#00868B",
+        "url": "https://github.com/trending?l=Cangjie"
+    },
     "CAP CDS": {
         "color": "#0092d1",
         "url": "https://github.com/trending?l=CAP-CDS"
@@ -1047,6 +1051,10 @@
         "color": "#005C9C",
         "url": "https://github.com/trending?l=HTTP"
     },
+    "Hurl": {
+        "color": "#FF0288",
+        "url": "https://github.com/trending?l=Hurl"
+    },
     "HXML": {
         "color": "#f68712",
         "url": "https://github.com/trending?l=HXML"
@@ -1450,10 +1458,6 @@
     "Mask": {
         "color": "#f97732",
         "url": "https://github.com/trending?l=Mask"
-    },
-    "Mathematica": {
-        "color": "#dd1100",
-        "url": "https://github.com/trending?l=Mathematica"
     },
     "MATLAB": {
         "color": "#e16737",
@@ -2455,6 +2459,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Tcsh"
     },
+    "Teal": {
+        "color": "#00B1BC",
+        "url": "https://github.com/trending?l=Teal"
+    },
     "templ": {
         "color": "#66D0DD",
         "url": "https://github.com/trending?l=templ"
@@ -2698,6 +2706,10 @@
     "Witcher Script": {
         "color": "#ff0000",
         "url": "https://github.com/trending?l=Witcher-Script"
+    },
+    "Wolfram Language": {
+        "color": "#dd1100",
+        "url": "https://github.com/trending?l=Wolfram-Language"
     },
     "Wollok": {
         "color": "#a23738",
