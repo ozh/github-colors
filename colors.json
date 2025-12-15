@@ -907,6 +907,10 @@
         "color": "#00ADD8",
         "url": "https://github.com/trending?l=Go-Module"
     },
+    "Go Template": {
+        "color": "#00ADD8",
+        "url": "https://github.com/trending?l=Go-Template"
+    },
     "Go Workspace": {
         "color": "#00ADD8",
         "url": "https://github.com/trending?l=Go-Workspace"
@@ -1259,6 +1263,10 @@
         "color": "#6f8042",
         "url": "https://github.com/trending?l=KakouneScript"
     },
+    "KCL": {
+        "color": "#7ABABF",
+        "url": "https://github.com/trending?l=KCL"
+    },
     "KDL": {
         "color": "#ffb3b3",
         "url": "https://github.com/trending?l=KDL"
@@ -1266,6 +1274,10 @@
     "KerboScript": {
         "color": "#41adf0",
         "url": "https://github.com/trending?l=KerboScript"
+    },
+    "KFramework": {
+        "color": "#4195c5",
+        "url": "https://github.com/trending?l=KFramework"
     },
     "KiCad Layout": {
         "color": "#2f4aab",
@@ -1302,6 +1314,10 @@
     "LabVIEW": {
         "color": "#fede06",
         "url": "https://github.com/trending?l=LabVIEW"
+    },
+    "Langium": {
+        "color": "#2c8c87",
+        "url": "https://github.com/trending?l=Langium"
     },
     "Lark": {
         "color": "#2980B9",
