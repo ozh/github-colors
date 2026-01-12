@@ -55,6 +55,10 @@
         "color": "#3AA2B5",
         "url": "https://github.com/trending?l=AL"
     },
+    "ALGOL": {
+        "color": "#D1E0DB",
+        "url": "https://github.com/trending?l=ALGOL"
+    },
     "Alloy": {
         "color": "#64C800",
         "url": "https://github.com/trending?l=Alloy"
@@ -119,10 +123,6 @@
         "color": "#aa2afe",
         "url": "https://github.com/trending?l=Arc"
     },
-    "ArkTS": {
-        "color": "#0080ff",
-        "url": "https://github.com/trending?l=ArkTS"
-    },
     "AsciiDoc": {
         "color": "#73a0c5",
         "url": "https://github.com/trending?l=AsciiDoc"
@@ -174,6 +174,10 @@
     "Awk": {
         "color": "#c30e9b",
         "url": "https://github.com/trending?l=Awk"
+    },
+    "B (Formal Method)": {
+        "color": "#8aa8c5",
+        "url": "https://github.com/trending?l=B-(Formal-Method)"
     },
     "B4X": {
         "color": "#00e4ff",
@@ -458,6 +462,10 @@
     "Cool": {
         "color": null,
         "url": "https://github.com/trending?l=Cool"
+    },
+    "CQL": {
+        "color": "#006091",
+        "url": "https://github.com/trending?l=CQL"
     },
     "crontab": {
         "color": "#ead7ac",
@@ -1139,6 +1147,10 @@
         "color": "#9EEDFF",
         "url": "https://github.com/trending?l=J"
     },
+    "Jac": {
+        "color": "#FC792D",
+        "url": "https://github.com/trending?l=Jac"
+    },
     "Jai": {
         "color": "#ab8b4b",
         "url": "https://github.com/trending?l=Jai"
@@ -1315,6 +1327,10 @@
         "color": "#fede06",
         "url": "https://github.com/trending?l=LabVIEW"
     },
+    "Lambdapi": {
+        "color": "#8027a3",
+        "url": "https://github.com/trending?l=Lambdapi"
+    },
     "Langium": {
         "color": "#2c8c87",
         "url": "https://github.com/trending?l=Langium"
@@ -1474,6 +1490,10 @@
     "Mask": {
         "color": "#f97732",
         "url": "https://github.com/trending?l=Mask"
+    },
+    "Mathematical Programming System": {
+        "color": "#0530ad",
+        "url": "https://github.com/trending?l=Mathematical-Programming-System"
     },
     "MATLAB": {
         "color": "#e16737",
@@ -2091,6 +2111,10 @@
         "color": "#fffaa0",
         "url": "https://github.com/trending?l=Rascal"
     },
+    "RAScript": {
+        "color": "#2C97FA",
+        "url": "https://github.com/trending?l=RAScript"
+    },
     "RBS": {
         "color": "#701516",
         "url": "https://github.com/trending?l=RBS"
@@ -2427,6 +2451,10 @@
         "color": "#46390b",
         "url": "https://github.com/trending?l=SuperCollider"
     },
+    "SurrealQL": {
+        "color": "#ff00a0",
+        "url": "https://github.com/trending?l=SurrealQL"
+    },
     "Survex data": {
         "color": "#ffcc99",
         "url": "https://github.com/trending?l=Survex-data"
@@ -2522,6 +2550,10 @@
     "TLA": {
         "color": "#4b0079",
         "url": "https://github.com/trending?l=TLA"
+    },
+    "TMDL": {
+        "color": "#f0c913",
+        "url": "https://github.com/trending?l=TMDL"
     },
     "Toit": {
         "color": "#c2c9fb",
