@@ -743,6 +743,10 @@
         "color": "#4aae47",
         "url": "https://github.com/trending?l=fish"
     },
+    "FlatBuffers": {
+        "color": "#ed284a",
+        "url": "https://github.com/trending?l=FlatBuffers"
+    },
     "Flix": {
         "color": "#d44a45",
         "url": "https://github.com/trending?l=Flix"
@@ -1394,6 +1398,10 @@
     "Liquid": {
         "color": "#67b8de",
         "url": "https://github.com/trending?l=Liquid"
+    },
+    "Liquidsoap": {
+        "color": "#990066",
+        "url": "https://github.com/trending?l=Liquidsoap"
     },
     "Literate Agda": {
         "color": "#315665",
