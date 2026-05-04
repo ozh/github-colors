@@ -2403,6 +2403,10 @@
         "color": "#0C4597",
         "url": "https://github.com/trending?l=SPARQL"
     },
+    "SpiceDB Schema": {
+        "color": "#a5318a",
+        "url": "https://github.com/trending?l=SpiceDB-Schema"
+    },
     "SQF": {
         "color": "#3F3F3F",
         "url": "https://github.com/trending?l=SQF"
