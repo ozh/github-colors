@@ -1103,6 +1103,10 @@
         "color": "#0000cc",
         "url": "https://github.com/trending?l=IGOR-Pro"
     },
+    "IL Assembly": {
+        "color": "#512BD4",
+        "url": "https://github.com/trending?l=IL-Assembly"
+    },
     "ImageJ Macro": {
         "color": "#99AAFF",
         "url": "https://github.com/trending?l=ImageJ-Macro"
