@@ -187,6 +187,10 @@
         "color": "#FF5000",
         "url": "https://github.com/trending?l=Ballerina"
     },
+    "BAML": {
+        "color": "#a855f7",
+        "url": "https://github.com/trending?l=BAML"
+    },
     "BASIC": {
         "color": "#ff0000",
         "url": "https://github.com/trending?l=BASIC"
@@ -974,6 +978,10 @@
     "GSC": {
         "color": "#FF6800",
         "url": "https://github.com/trending?l=GSC"
+    },
+    "GtkRC": {
+        "color": "#7fe719",
+        "url": "https://github.com/trending?l=GtkRC"
     },
     "Hack": {
         "color": "#878787",
@@ -1875,6 +1883,10 @@
         "color": "#cce2aa",
         "url": "https://github.com/trending?l=OverpassQL"
     },
+    "OverPy": {
+        "color": "#78b355",
+        "url": "https://github.com/trending?l=OverPy"
+    },
     "Ox": {
         "color": null,
         "url": "https://github.com/trending?l=Ox"
@@ -1959,6 +1971,10 @@
         "color": "#FFD343",
         "url": "https://github.com/trending?l=Pip-Requirements"
     },
+    "pkg-config": {
+        "color": "#2b5e82",
+        "url": "https://github.com/trending?l=pkg-config"
+    },
     "Pkl": {
         "color": "#6b9543",
         "url": "https://github.com/trending?l=Pkl"
@@ -2003,6 +2019,10 @@
         "color": "#6bac65",
         "url": "https://github.com/trending?l=POV-Ray-SDL"
     },
+    "Power Query": {
+        "color": "#d38e0d",
+        "url": "https://github.com/trending?l=Power-Query"
+    },
     "PowerBuilder": {
         "color": "#8f0f8d",
         "url": "https://github.com/trending?l=PowerBuilder"
@@ -2018,6 +2038,10 @@
     "Prisma": {
         "color": "#0c344b",
         "url": "https://github.com/trending?l=Prisma"
+    },
+    "Pro*C": {
+        "color": "#bb8368",
+        "url": "https://github.com/trending?l=Pro*C"
     },
     "Processing": {
         "color": "#0096D8",
@@ -2170,6 +2194,10 @@
     "Redcode": {
         "color": null,
         "url": "https://github.com/trending?l=Redcode"
+    },
+    "Redscript": {
+        "color": "#f44336",
+        "url": "https://github.com/trending?l=Redscript"
     },
     "Regular Expression": {
         "color": "#009a00",
