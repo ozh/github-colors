@@ -247,6 +247,10 @@
         "color": "#cd6400",
         "url": "https://github.com/trending?l=BlitzMax"
     },
+    "Blueprint": {
+        "color": "#3584E4",
+        "url": "https://github.com/trending?l=Blueprint"
+    },
     "Bluespec": {
         "color": "#12223c",
         "url": "https://github.com/trending?l=Bluespec"
@@ -296,7 +300,7 @@
         "url": "https://github.com/trending?l=C"
     },
     "C#": {
-        "color": "#178600",
+        "color": "#7355dd",
         "url": "https://github.com/trending?l=Csharp"
     },
     "C++": {
