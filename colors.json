@@ -55,6 +55,10 @@
         "color": "#3AA2B5",
         "url": "https://github.com/trending?l=AL"
     },
+    "Aleo": {
+        "color": "#154BF9",
+        "url": "https://github.com/trending?l=Aleo"
+    },
     "ALGOL": {
         "color": "#D1E0DB",
         "url": "https://github.com/trending?l=ALGOL"
@@ -199,6 +203,10 @@
         "color": "#C1F12E",
         "url": "https://github.com/trending?l=Batchfile"
     },
+    "BBCode": {
+        "color": "#CAFF42",
+        "url": "https://github.com/trending?l=BBCode"
+    },
     "Beef": {
         "color": "#a52f4e",
         "url": "https://github.com/trending?l=Beef"
@@ -226,6 +234,10 @@
     "Bikeshed": {
         "color": "#5562ac",
         "url": "https://github.com/trending?l=Bikeshed"
+    },
+    "BIRD2": {
+        "color": "#b6d7e4",
+        "url": "https://github.com/trending?l=BIRD2"
     },
     "Bison": {
         "color": "#6A463F",
@@ -1191,6 +1203,10 @@
         "color": "#d03600",
         "url": "https://github.com/trending?l=Jasmin"
     },
+    "JASS": {
+        "color": "#FF0303",
+        "url": "https://github.com/trending?l=JASS"
+    },
     "Java": {
         "color": "#b07219",
         "url": "https://github.com/trending?l=Java"
@@ -1447,6 +1463,10 @@
         "color": "#185619",
         "url": "https://github.com/trending?l=LLVM"
     },
+    "Lobster": {
+        "color": "#f95428",
+        "url": "https://github.com/trending?l=Lobster"
+    },
     "Logos": {
         "color": null,
         "url": "https://github.com/trending?l=Logos"
@@ -1570,6 +1590,10 @@
     "MiniD": {
         "color": null,
         "url": "https://github.com/trending?l=MiniD"
+    },
+    "MiniScript": {
+        "color": "#4B4A56",
+        "url": "https://github.com/trending?l=MiniScript"
     },
     "MiniYAML": {
         "color": "#ff1111",
@@ -2311,9 +2335,9 @@
         "color": "#259dd5",
         "url": "https://github.com/trending?l=Sail"
     },
-    "SaltStack": {
-        "color": "#646464",
-        "url": "https://github.com/trending?l=SaltStack"
+    "Salt": {
+        "color": "#57bcad",
+        "url": "https://github.com/trending?l=Salt"
     },
     "SAS": {
         "color": "#B34936",
@@ -2555,6 +2579,10 @@
         "color": "#333333",
         "url": "https://github.com/trending?l=Talon"
     },
+    "Tape": {
+        "color": null,
+        "url": "https://github.com/trending?l=Tape"
+    },
     "Tcl": {
         "color": "#e4cc98",
         "url": "https://github.com/trending?l=Tcl"
@@ -2619,6 +2647,10 @@
         "color": "#c2c9fb",
         "url": "https://github.com/trending?l=Toit"
     },
+    "Tolk": {
+        "color": "#30A1F5",
+        "url": "https://github.com/trending?l=Tolk"
+    },
     "TOML": {
         "color": "#9c4221",
         "url": "https://github.com/trending?l=TOML"
@@ -2666,6 +2698,10 @@
     "Typst": {
         "color": "#239dad",
         "url": "https://github.com/trending?l=Typst"
+    },
+    "ucode": {
+        "color": "#00b8d4",
+        "url": "https://github.com/trending?l=ucode"
     },
     "Unified Parallel C": {
         "color": "#4e3617",
@@ -2734,6 +2770,10 @@
     "Verilog": {
         "color": "#b2b7f8",
         "url": "https://github.com/trending?l=Verilog"
+    },
+    "Verse": {
+        "color": "#518ef8",
+        "url": "https://github.com/trending?l=Verse"
     },
     "VHDL": {
         "color": "#adb2cb",
