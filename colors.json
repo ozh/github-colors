@@ -179,6 +179,10 @@
         "color": "#c30e9b",
         "url": "https://github.com/trending?l=Awk"
     },
+    "B": {
+        "color": "#da7666",
+        "url": "https://github.com/trending?l=B"
+    },
     "B (Formal Method)": {
         "color": "#8aa8c5",
         "url": "https://github.com/trending?l=B-(Formal-Method)"
@@ -1142,6 +1146,10 @@
     "Imba": {
         "color": "#16cec6",
         "url": "https://github.com/trending?l=Imba"
+    },
+    "ImHex Pattern Language": {
+        "color": "#3a6be0",
+        "url": "https://github.com/trending?l=ImHex-Pattern-Language"
     },
     "Inform 7": {
         "color": null,
