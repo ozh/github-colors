@@ -795,6 +795,10 @@
         "color": "#4d41b1",
         "url": "https://github.com/trending?l=Fortran-Free-Form"
     },
+    "FPP": {
+        "color": "#d37327",
+        "url": "https://github.com/trending?l=FPP"
+    },
     "FreeBASIC": {
         "color": "#141AC9",
         "url": "https://github.com/trending?l=FreeBASIC"
@@ -2783,6 +2787,10 @@
         "color": "#518ef8",
         "url": "https://github.com/trending?l=Verse"
     },
+    "Vespa Schema Definition": {
+        "color": "#61D790",
+        "url": "https://github.com/trending?l=Vespa-Schema-Definition"
+    },
     "VHDL": {
         "color": "#adb2cb",
         "url": "https://github.com/trending?l=VHDL"
@@ -2791,9 +2799,9 @@
         "color": "#199f4b",
         "url": "https://github.com/trending?l=Vim-Help-File"
     },
-    "Vim Script": {
+    "Vim script": {
         "color": "#199f4b",
-        "url": "https://github.com/trending?l=Vim-Script"
+        "url": "https://github.com/trending?l=Vim-script"
     },
     "Vim Snippet": {
         "color": "#199f4b",
