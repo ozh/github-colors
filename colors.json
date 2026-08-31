@@ -2167,6 +2167,10 @@
         "color": "#975777",
         "url": "https://github.com/trending?l=QuakeC"
     },
+    "Quartus Simulation IP": {
+        "color": "#58C42E",
+        "url": "https://github.com/trending?l=Quartus-Simulation-IP"
+    },
     "QuickBASIC": {
         "color": "#008080",
         "url": "https://github.com/trending?l=QuickBASIC"
@@ -2270,6 +2274,10 @@
     "Rez": {
         "color": "#FFDAB3",
         "url": "https://github.com/trending?l=Rez"
+    },
+    "Rhai": {
+        "color": "#FBA63B",
+        "url": "https://github.com/trending?l=Rhai"
     },
     "Ring": {
         "color": "#2D54CB",
@@ -2422,6 +2430,10 @@
     "Singularity": {
         "color": "#64E6AD",
         "url": "https://github.com/trending?l=Singularity"
+    },
+    "SIP": {
+        "color": "#4E8D83",
+        "url": "https://github.com/trending?l=SIP"
     },
     "Slang": {
         "color": "#1fbec9",
