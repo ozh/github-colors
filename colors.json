@@ -127,6 +127,10 @@
         "color": "#aa2afe",
         "url": "https://github.com/trending?l=Arc"
     },
+    "ArkTS": {
+        "color": "#0080ff",
+        "url": "https://github.com/trending?l=ArkTS"
+    },
     "AsciiDoc": {
         "color": "#73a0c5",
         "url": "https://github.com/trending?l=AsciiDoc"
@@ -1474,6 +1478,10 @@
     "LLVM": {
         "color": "#185619",
         "url": "https://github.com/trending?l=LLVM"
+    },
+    "LLVM TableGen": {
+        "color": "#6E8B3D",
+        "url": "https://github.com/trending?l=LLVM-TableGen"
     },
     "Lobster": {
         "color": "#f95428",
