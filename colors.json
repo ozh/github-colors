@@ -223,6 +223,10 @@
         "color": null,
         "url": "https://github.com/trending?l=Befunge"
     },
+    "Bend": {
+        "color": null,
+        "url": "https://github.com/trending?l=Bend"
+    },
     "Berry": {
         "color": "#15A13C",
         "url": "https://github.com/trending?l=Berry"
@@ -688,7 +692,7 @@
         "url": "https://github.com/trending?l=EJS"
     },
     "Elixir": {
-        "color": "#6e4a7e",
+        "color": "#8847B9",
         "url": "https://github.com/trending?l=Elixir"
     },
     "Elm": {
