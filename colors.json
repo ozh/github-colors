@@ -175,6 +175,10 @@
         "color": "#1C3552",
         "url": "https://github.com/trending?l=AutoIt"
     },
+    "AviSynth": {
+        "color": "#6C5D95",
+        "url": "https://github.com/trending?l=AviSynth"
+    },
     "Avro IDL": {
         "color": "#0040FF",
         "url": "https://github.com/trending?l=Avro-IDL"
@@ -650,6 +654,10 @@
     "Easybuild": {
         "color": "#069406",
         "url": "https://github.com/trending?l=Easybuild"
+    },
+    "EasyCrypt": {
+        "color": "#2a5db0",
+        "url": "https://github.com/trending?l=EasyCrypt"
     },
     "eC": {
         "color": "#913960",
@@ -1603,9 +1611,17 @@
         "color": "#007800",
         "url": "https://github.com/trending?l=Meson"
     },
+    "METAFONT": {
+        "color": "#8a4a2b",
+        "url": "https://github.com/trending?l=METAFONT"
+    },
     "Metal": {
         "color": "#8f14e9",
         "url": "https://github.com/trending?l=Metal"
+    },
+    "MetaPost": {
+        "color": "#2b6cb0",
+        "url": "https://github.com/trending?l=MetaPost"
     },
     "MeTTa": {
         "color": "#6a5acd",
@@ -2703,6 +2719,10 @@
         "color": "#e38c00",
         "url": "https://github.com/trending?l=TSQL"
     },
+    "TSRX": {
+        "color": "#6f00ff",
+        "url": "https://github.com/trending?l=TSRX"
+    },
     "TSV": {
         "color": "#237346",
         "url": "https://github.com/trending?l=TSV"
@@ -2738,6 +2758,10 @@
     "ucode": {
         "color": "#00b8d4",
         "url": "https://github.com/trending?l=ucode"
+    },
+    "Uiua": {
+        "color": "#c87dff",
+        "url": "https://github.com/trending?l=Uiua"
     },
     "Unified Parallel C": {
         "color": "#4e3617",
@@ -2870,6 +2894,10 @@
     "WebIDL": {
         "color": null,
         "url": "https://github.com/trending?l=WebIDL"
+    },
+    "WESL": {
+        "color": "#0391e3",
+        "url": "https://github.com/trending?l=WESL"
     },
     "WGSL": {
         "color": "#1a5e9a",
