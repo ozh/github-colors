@@ -228,7 +228,7 @@
         "url": "https://github.com/trending?l=Befunge"
     },
     "Bend": {
-        "color": null,
+        "color": "#8b83b5",
         "url": "https://github.com/trending?l=Bend"
     },
     "Berry": {
@@ -386,6 +386,10 @@
     "CartoCSS": {
         "color": null,
         "url": "https://github.com/trending?l=CartoCSS"
+    },
+    "Cedar": {
+        "color": "#51732F",
+        "url": "https://github.com/trending?l=Cedar"
     },
     "Ceylon": {
         "color": "#dfa535",
@@ -983,6 +987,10 @@
         "color": "#88562A",
         "url": "https://github.com/trending?l=Golo"
     },
+    "Goose": {
+        "color": "#40E0D0",
+        "url": "https://github.com/trending?l=Goose"
+    },
     "Gosu": {
         "color": "#82937f",
         "url": "https://github.com/trending?l=Gosu"
@@ -1355,6 +1363,10 @@
         "color": "#41adf0",
         "url": "https://github.com/trending?l=KerboScript"
     },
+    "KerML": {
+        "color": "#5C6BC0",
+        "url": "https://github.com/trending?l=KerML"
+    },
     "KFramework": {
         "color": "#4195c5",
         "url": "https://github.com/trending?l=KFramework"
@@ -1416,7 +1428,7 @@
         "url": "https://github.com/trending?l=Latte"
     },
     "Lean": {
-        "color": null,
+        "color": "#3d6ac9",
         "url": "https://github.com/trending?l=Lean"
     },
     "Lean 4": {
@@ -2618,6 +2630,10 @@
     "SWIG": {
         "color": null,
         "url": "https://github.com/trending?l=SWIG"
+    },
+    "SysML": {
+        "color": "#3F51B5",
+        "url": "https://github.com/trending?l=SysML"
     },
     "SystemVerilog": {
         "color": "#DAE1C2",
